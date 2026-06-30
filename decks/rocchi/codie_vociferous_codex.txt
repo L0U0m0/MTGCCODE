@@ -1,0 +1,100 @@
+1 Codie, Vociferous Codex
+1 Abrade
+1 Abundant Harvest
+1 Angel's Grace
+1 Approach of the Second Sun
+1 Arid Mesa
+1 Awaken the Woods
+1 Big Score
+1 Blood Crypt
+1 Bloodstained Mire
+1 Bountiful Promenade
+1 Brain Freeze
+1 Brainstorm
+1 Breeding Pool
+1 Bring to Light
+1 Brotherhood's End
+1 Chaos Warp
+1 Command Tower
+1 Compulsive Research
+1 Counterspell
+1 Crackle with Power
+1 Crop Rotation
+1 Culling Ritual
+1 Dark Ritual
+1 Day of Judgment
+1 Deduce
+1 Demonic Tutor
+1 Despark
+1 Dismember
+1 Doom Blade
+1 Duress
+1 Electrolyze
+1 Expressive Iteration
+1 Faithless Looting
+1 Flooded Strand
+1 Forest
+1 Fracture
+1 Gift of Estates
+1 Godless Shrine
+1 Grapeshot
+1 Hallowed Fountain
+1 Harmonize
+1 Helping Hand
+1 Indatha Triome
+1 Inquisition of Kozilek
+1 Island
+1 Ketria Triome
+1 Krosan Grip
+1 Lightning Bolt
+1 Lightning Helix
+1 Luxury Suite
+1 Memory Lapse
+1 Mind's Desire
+1 Mizzix's Mastery
+1 Morphic Pool
+1 Mountain
+1 Overgrown Tomb
+1 Plains
+1 Polluted Delta
+1 Pongify
+1 Preordain
+1 Primal Command
+1 Putrefy
+1 Pyretic Ritual
+1 Reflecting Pool
+1 Regrowth
+1 Rejuvenating Springs
+1 Reprieve
+1 Revitalize
+1 Sacred Foundry
+1 Sea of Clouds
+1 Shared Roots
+1 Sheoldred's Edict
+1 Sleight of Hand
+1 Spara's Headquarters
+1 Spectator Seating
+1 Spire Garden
+1 Stargaze
+1 Steam Vents
+1 Stock Up
+1 Stomping Ground
+1 Swamp
+1 Swords to Plowshares
+1 Teferi's Protection
+1 Temple Garden
+1 The World Tree
+1 Thrill of Possibility
+1 Time Warp
+1 Training Center
+1 Undergrowth Stadium
+1 Vampiric Tutor
+1 Vault of Champions
+1 Veil of Summer
+1 Watery Grave
+1 Weather the Storm
+1 Winds of Abandon
+1 Windswept Heath
+1 Wooded Foothills
+1 Zagoth Triome
+1 Ziatora's Proving Ground

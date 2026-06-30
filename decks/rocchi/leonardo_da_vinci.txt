@@ -1,0 +1,76 @@
+1 Leonardo da Vinci
+1 Academy Ruins
+1 Access Denied
+1 Akroma's Memorial
+1 An Offer You Can't Refuse
+1 Archmage's Charm
+1 Buried Ruin
+1 Caged Sun
+1 Chief of the Foundry
+1 Chimil, the Inner Sun
+1 Cityscape Leveler
+1 Crystal Skull, Isu Spyglass
+1 Cybermen Squadron
+1 Darksteel Citadel
+1 Darksteel Forge
+1 Darksteel Monolith
+1 Desynchronization
+1 Forsaken Monument
+1 God-Pharaoh's Statue
+1 Graaz, Unstoppable Juggernaut
+1 Hexavus
+25 Island
+1 Krang, Utrom Warlord
+1 Liberator, Urza's Battlethopter
+1 Lithoform Engine
+1 Mana Drain
+1 Marvin, Murderous Mimic
+1 Master of Etherium
+1 Mechanized Production
+1 Meteor Golem
+1 Minamo, School at Water's Edge
+1 Monument to Endurance
+1 Mycosynth Golem
+1 Myr Battlesphere
+1 Mystic Forge
+1 Omen Hawker
+1 Otawara, Soaring City
+1 Padeem, Consul of Innovation
+1 Phyrexian Metamorph
+1 Phyrexian Triniform
+1 Platinum Angel
+1 Platinum Emperion
+1 Ponder
+1 Portal to Phyrexia
+1 Propaganda
+1 Reality Shift
+1 Reliquary Tower
+1 Sculpting Steel
+1 Seat of the Synod
+1 Sensei's Divining Top
+1 Shadow of the Second Sun
+1 Simulacrum Synthesizer
+1 Sink into Stupor // Soporific Springs
+1 Sol Ring
+1 Solemn Simulacrum
+1 Spellskite
+1 Stridehangar Automaton
+1 Swan Song
+1 Tezzeret the Seeker
+1 Tezzeret, Artifice Master
+1 The Magic Mirror
+1 Thirst for Knowledge
+1 Thopter Spy Network
+1 Thought Monitor
+1 Thought Vessel
+1 Thoughtcast
+1 Threefold Thunderhulk
+1 Training Grounds
+1 Triplicate Titan
+1 Urza's Mine
+1 Urza's Power Plant
+1 Urza's Tower
+1 Urza, Lord High Artificer
+1 Vedalken Humiliator
+1 Worldwalker Helm
+1 Wurmcoil Engine

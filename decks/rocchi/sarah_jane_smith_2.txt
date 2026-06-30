@@ -1,0 +1,92 @@
+1 Sarah Jane Smith
+1 The Tenth Doctor
+1 Alibou, Ancient Witness
+1 Ancient Den
+1 Arcane Denial
+1 Arcane Signet
+1 Archway of Innovation
+1 Astrid Peth
+1 Auton Soldier
+1 Chaos Warp
+1 Cloud Key
+1 Command Tower
+1 Cursed Mirror
+1 Cyberdrive Awakener
+1 Cyclonic Rift
+1 Dance of the Manse
+1 Darksteel Citadel
+1 Depthshaker Titan
+1 Desynchronization
+1 Dispatch
+1 Emry, Lurker of the Loch
+1 Enthusiastic Mechanaut
+1 Erode
+1 Etherium Sculptor
+1 Exotic Orchard
+1 Expressive Iteration
+1 Farewell
+1 Flooded Strand
+1 Floodfarm Verge
+1 Forensic Gadgeteer
+1 Glasspool Mimic // Glasspool Shore
+1 Great Furnace
+1 Hallowed Fountain
+1 Inspirit, Flagship Vessel
+3 Island
+1 Jeska's Will
+1 Jhoira's Timebug
+1 Jhoira, Weatherlight Captain
+1 Junk Winder
+1 Kappa Cannoneer
+1 Karn, Legacy Reforged
+1 Krang, Master Mind
+1 Liquimetal Torque
+1 Mountain
+1 Mycosynth Golem
+1 Otawara, Soaring City
+1 Path of Ancestry
+1 Phyrexian Metamorph
+1 Pinnacle Emissary
+2 Plains
+1 Raff Capashen, Ship's Mage
+1 Raugrin Triome
+1 Razorgrass Ambush // Razorgrass Field
+1 Reality Heist
+1 Reliquary Tower
+1 Rift Elemental
+1 Rise and Shine
+1 Riverpyre Verge
+1 Rousing Refrain
+1 Sacred Foundry
+1 Sai, Master Thopterist
+1 Sanwell, Avenger Ace
+1 Sea of Clouds
+1 Seat of the Synod
+1 Simulacrum Synthesizer
+1 Sink into Stupor // Soporific Springs
+1 Solemn Simulacrum
+1 Spectator Seating
+1 Steam Vents
+1 Stormcarved Coast
+1 Stridehangar Automaton
+1 Sunbillow Verge
+1 Sundering Eruption // Volcanic Fissure
+1 Sundown Pass
+1 Talisman of Conviction
+1 Talisman of Creativity
+1 Talisman of Progress
+1 Thought Monitor
+1 Thoughtcast
+1 Thran Dynamo
+1 Training Center
+1 Traxos, Scourge of Kroog
+1 Untimely Malfunction
+1 Urza's Mine
+1 Urza's Power Plant
+1 Urza's Tower
+1 Urza, Lord High Artificer
+1 Uthros Research Craft
+1 Uthros, Titanic Godcore
+1 Valakut Awakening // Valakut Stoneforge
+1 Wake the Past
+1 Wurmcoil Engine

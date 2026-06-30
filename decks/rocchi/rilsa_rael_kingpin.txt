@@ -1,0 +1,75 @@
+1 Rilsa Rael, Kingpin
+1 Aarakocra Sneak
+1 Aqueous Form
+1 Arcane Denial
+1 Arcane Signet
+1 Arms of Hadar
+1 Artful Dodge
+1 Ash Barrens
+1 Azra Smokeshaper
+1 Azure Fleet Admiral
+1 Bar the Gate
+1 Blighted Agent
+1 Blur
+1 Candlekeep Sage
+1 Careful Study
+1 Charcoal Diamond
+1 Clattering Skeletons
+1 Cloak of the Bat
+1 Command Tower
+1 Commander's Sphere
+1 Contaminated Aquifer
+1 Counterspell
+1 Dauthi Horror
+1 Deadly Dispute
+1 Decanter of Endless Water
+1 Dimir Aqueduct
+1 Dimir Guildgate
+1 Dimir Infiltrator
+1 Dimir Signet
+1 Dismal Backwater
+1 Enter the Enigma
+1 Escape Tunnel
+1 Evolving Wilds
+1 Fates' Reversal
+1 Feed the Swarm
+1 Foil
+1 Frantic Search
+1 Ghostly Flicker
+1 Go for the Throat
+1 Gray Merchant of Asphodel
+1 Ice Tunnel
+13 Island
+1 Looter il-Kor
+1 Mind Stone
+1 Mist-Cloaked Herald
+1 Mistblade Shinobi
+1 Moon-Circuit Hacker
+1 Moonblade Shinobi
+1 Mortuary Mire
+1 Mukotai Ambusher
+1 Murder
+1 Negate
+1 Night's Whisper
+1 Ninja of the Deep Hours
+1 Precipitous Drop
+1 Read the Bones
+1 Resculpt
+1 Seize the Secrets
+1 Shortcut Seeker
+1 Sign in Blood
+1 Sky Diamond
+1 Slither Blade
+14 Swamp
+1 Terramorphic Expanse
+1 Thieves' Tools
+1 Thorn of the Black Rose
+1 Trailblazer's Torch
+1 Treasure Cruise
+1 Underdark Explorer
+1 Vicious Battlerager
+1 Village Rites
+1 Viridian Longbow
+1 Vorrac Battlehorns
+1 Wayfarer's Bauble
+1 Yuan-Ti Fang-Blade

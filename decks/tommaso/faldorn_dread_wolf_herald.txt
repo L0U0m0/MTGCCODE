@@ -1,0 +1,78 @@
+1 Faldorn, Dread Wolf Herald
+1 Apex Devastator
+1 Arcane Signet
+1 Beast Within
+1 Beastmaster Ascension
+1 Blasphemous Act
+1 Bloodbraid Elf
+1 Bonecrusher Giant // Stomp
+1 Bonehoard Dracosaur
+1 Call Forth the Tempest
+1 Castle Embereth
+1 Chaos Wand
+1 Chaos Warp
+1 Charred Foyer // Warped Space
+1 Cinder Glade
+1 Command Tower
+1 Conspiracy Theorist
+1 Cultivate
+1 Delayed Blast Fireball
+1 Dire Fleet Daredevil
+1 End-Raze Forerunners
+1 Escape to the Wilds
+1 Etali, Primal Conqueror // Etali, Primal Sickness
+1 Etali, Primal Storm
+1 Explore
+10 Forest
+1 Game Trail
+1 Germination Practicum
+1 Goblin Anarchomancer
+1 Green Slime
+1 Gruul Turf
+1 Heroic Intervention
+1 Highland Forest
+1 Ignite the Future
+1 Impact Tremors
+1 Improvisation Capstone
+1 Inti, Seneschal of the Sun
+1 Jeska's Will
+1 Karplusan Forest
+1 Kessig Wolf Run
+1 Kodama's Reach
+1 Laelia, the Blade Reforged
+1 Light Up the Stage
+1 Lightning Greaves
+1 Mossfire Valley
+1 Mosswort Bridge
+14 Mountain
+1 Nalfeshnee
+1 Nature's Lore
+1 Outpost Siege
+1 Party Thrasher
+1 Passionate Archaeologist
+1 Plargg and Nassari
+1 Professional Face-Breaker
+1 Questing Druid // Seek the Beast
+1 Reckless Impulse
+1 Return of the Wildspeaker
+1 Rhythm of the Wild
+1 Rockfall Vale
+1 Rootbound Crag
+1 Sakura-Tribe Elder
+1 Savvy Trader
+1 Search for Tomorrow
+1 Stomping Ground
+1 Tectonic Giant
+1 Temple of Abandon
+1 Three Visits
+1 Tlincalli Hunter // Retrieve Prey
+1 Urabrask the Hidden
+1 Urabrask, Heretic Praetor
+1 Valakut Exploration
+1 Venture Forth
+1 Volcanic Torrent
+1 Wand of Wonder
+1 Warstorm Surge
+1 Wild-Magic Sorcerer
+1 Wrenn's Resolve
+1 Xenagos, the Reveler
