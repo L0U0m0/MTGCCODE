@@ -100,26 +100,26 @@ def by_tag():
     return d
 
 
-def sim_A(NG, seats=4):
+# Pod A: roster fisso del pod di riferimento (4 sedie, sempre questi 4)
+ROSTER = ["jimmy", "saverio", "rocchi", "tommaso"]
+
+
+def sim_A(NG, roster=ROSTER):
     tags = by_tag()
-    players = sorted(tags)
-    wins_tag = Counter(); app_tag = Counter()
-    wins_deck = Counter(); app_deck = Counter(); endt = []
+    roster = [t for t in roster if tags.get(t)]
+    wins_tag = Counter(); wins_deck = Counter(); app_deck = Counter(); endt = []
     for _ in range(NG):
         rng = random.Random(R.randrange(10**9))
-        chosen = rng.sample(players, min(seats, len(players)))  # 4 giocatori a caso
-        pod = [rng.choice(tags[t]) for t in chosen]
-        for t in chosen: app_tag[t] += 1
+        pod = [rng.choice(tags[t]) for t in roster]   # 1 mazzo a caso per giocatore
         for nm in pod: app_deck[nm] += 1
         w, v, t = pod_game(pod, rng)
         wins_tag[P[w]['tag']] += 1; wins_deck[w] += 1; endt.append(t)
-    print(f"\n=== POD A — serata reale: {seats} giocatori a caso degli {len(players)}, "
-          f"1 mazzo a testa, {NG} partite ===")
-    print(f"{'GIOCATORE':11}{'winrate':>9}{'mazzi':>7}   (atteso equo {100//seats}%)")
-    for t in sorted(players, key=lambda x: -wins_tag[x]/max(1, app_tag[x])):
-        print(f"{t:11}{100*wins_tag[t]/max(1,app_tag[t]):8.1f}%{len(tags[t]):7}")
+    print(f"\n=== POD A — pod fisso ({' + '.join(roster)}), 1 mazzo a testa, {NG} partite ===")
+    print(f"{'GIOCATORE':11}{'winrate':>9}{'mazzi':>7}   (atteso equo {100//len(roster)}%)")
+    for t in sorted(roster, key=lambda x: -wins_tag[x]):
+        print(f"{t:11}{100*wins_tag[t]/NG:8.1f}%{len(tags[t]):7}")
     print(f"\nMiglior mazzo per giocatore (winrate sulle sue apparizioni):")
-    for t in sorted(players):
+    for t in roster:
         best = max(tags[t], key=lambda nm: wins_deck[nm]/max(1, app_deck[nm]))
         wr = 100*wins_deck[best]/max(1, app_deck[best])
         print(f"  {t:11} {best.split('/')[1]:34} {wr:5.1f}%")
