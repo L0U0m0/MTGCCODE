@@ -1,0 +1,89 @@
+1 Mirri, Weatherlight Duelist
+1 Arcane Signet
+1 Arena of the Ancients
+1 Aven Mindcensor
+1 Basilisk Collar
+1 Beast Whisperer
+1 Beast Within
+1 Birds of Paradise
+1 Brushland
+1 Canopy Vista
+1 Collected Company
+1 Command Tower
+1 Craterhoof Behemoth
+1 Crop Rotation
+1 Defense of the Heart
+1 Descend upon the Sinful
+1 Dragonlord Dromoka
+1 Dromoka's Command
+1 Dryad Arbor
+1 Eidolon of Rhetoric
+1 Eladamri's Call
+1 Elesh Norn, Grand Cenobite
+1 Ellivere of the Wild Court
+1 Elspeth, Knight-Errant
+1 Elspeth, Sun's Champion
+1 Enchantress's Presence
+1 Enlightened Tutor
+1 Fertile Ground
+7 Forest
+1 Fortified Village
+1 Generous Gift
+1 Giver of Runes
+1 Green Sun's Zenith
+1 Guardian of Faith
+1 Gylwain, Casting Director
+1 Heroic Intervention
+1 Horizon Canopy
+1 Hushwood Verge
+1 Kenrith's Transformation
+1 Knight of Autumn
+1 Kudo, King Among Bears
+1 Leyline of Sanctity
+1 Loxodon Hierarch
+1 Marsh Flats
+1 Maze of Ith
+1 Mirari's Wake
+1 Mirri's Guile
+1 Mother of Runes
+1 Once Upon a Time
+1 Oran-Rief, the Vastwood
+1 Orim's Chant
+1 Overgrown Farmland
+1 Paradise Druid
+1 Path to Exile
+6 Plains
+1 Portcullis
+1 Preacher
+1 Questing Beast
+1 Razorverge Thicket
+1 Rootborn Defenses
+1 Savannah
+1 Scattered Groves
+1 Scavenging Ooze
+1 Selesnya Charm
+1 Shalai, Voice of Plenty
+1 Sigarda, Font of Blessings
+1 Sol Ring
+1 Song of the Dryads
+1 Springheart Nantuko
+1 Stirring Wildwood
+1 Strict Proctor
+1 Sungrass Prairie
+1 Sunpetal Grove
+1 Suppression Field
+1 Surrak, Elusive Hunter
+1 Swords to Plowshares
+1 Sylvan Library
+1 Tajuru Preserver
+1 Temple Garden
+1 Temple of Plenty
+1 Timely Ward
+1 Trostani, Three Whispers
+1 Utopia Sprawl
+1 Voice of Resurgence
+1 Voice of Victory
+1 Windswept Heath
+1 Wooded Foothills
+1 Wrath of God
+1 Yavimaya Hollow

@@ -1,0 +1,1102 @@
+{
+"jimmy/azlask": {
+"n_combos": 14,
+"pieces": 11,
+"mvs": [
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3
+],
+"wincons": 0
+},
+"jimmy/deadpool": {
+"n_combos": 3,
+"pieces": 5,
+"mvs": [
+0,
+9,
+2
+],
+"wincons": 2
+},
+"jimmy/edgar_markov": {
+"n_combos": 4,
+"pieces": 4,
+"mvs": [
+0,
+0,
+0,
+0
+],
+"wincons": 0
+},
+"jimmy/first_sliver": {
+"n_combos": 3,
+"pieces": 6,
+"mvs": [
+0,
+0,
+0
+],
+"wincons": 0
+},
+"jimmy/first_sliver_slayer": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"jimmy/noctis": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"jimmy/sonic": {
+"n_combos": 4,
+"pieces": 9,
+"mvs": [
+0,
+4,
+3,
+3
+],
+"wincons": 2
+},
+"jimmy/toph": {
+"n_combos": 9,
+"pieces": 9,
+"mvs": [
+3,
+3,
+3,
+3,
+2,
+2,
+0,
+4,
+4
+],
+"wincons": 0
+},
+"jimmy/ulalek": {
+"n_combos": 4,
+"pieces": 8,
+"mvs": [
+1,
+7,
+0,
+0
+],
+"wincons": 2
+},
+"jimmy/yshtola": {
+"n_combos": 2,
+"pieces": 5,
+"mvs": [
+0,
+0
+],
+"wincons": 1
+},
+"jimmy/yshtola_staxgoad": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"jimmy/yuna": {
+"n_combos": 2,
+"pieces": 3,
+"mvs": [
+0,
+0
+],
+"wincons": 0
+},
+"rocchi/aloy_savior_of_meridian": {
+"n_combos": 1,
+"pieces": 2,
+"mvs": [
+0
+],
+"wincons": 1
+},
+"rocchi/anikthea_hand_of_erebos": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"rocchi/aragorn_the_uniter_2": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"rocchi/aragorn_the_uniter_3": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"rocchi/atraxa_praetors_voice": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"rocchi/codie_vociferous_codex": {
+"n_combos": 3,
+"pieces": 4,
+"mvs": [
+16,
+16,
+15
+],
+"wincons": 3
+},
+"rocchi/fire_lord_zuko": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"rocchi/jin_sakai_ghost_of_tsushima": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"rocchi/jin_sakai_ghost_of_tsushima_2": {
+"n_combos": 4,
+"pieces": 5,
+"mvs": [
+0,
+0,
+0,
+0
+],
+"wincons": 0
+},
+"rocchi/kratos_stoic_father": {
+"n_combos": 2,
+"pieces": 4,
+"mvs": [
+0,
+0
+],
+"wincons": 0
+},
+"rocchi/kratos_stoic_father_2": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"rocchi/owyn_shieldmaiden": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"rocchi/rocco_street_chef": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"rocchi/rose_tyler": {
+"n_combos": 7,
+"pieces": 8,
+"mvs": [
+5,
+6,
+6,
+15,
+17,
+7,
+7
+],
+"wincons": 0
+},
+"rocchi/rose_tyler_2": {
+"n_combos": 3,
+"pieces": 4,
+"mvs": [
+5,
+6,
+6
+],
+"wincons": 0
+},
+"rocchi/samut_the_driving_force": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"rocchi/sarah_jane_smith": {
+"n_combos": 2,
+"pieces": 3,
+"mvs": [
+5,
+6
+],
+"wincons": 0
+},
+"rocchi/sarah_jane_smith_2": {
+"n_combos": 2,
+"pieces": 3,
+"mvs": [
+5,
+6
+],
+"wincons": 0
+},
+"rocchi/saskia_the_unyielding": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"rocchi/splinter_radical_rat": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"rocchi/the_thirteenth_doctor": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"rocchi/zurgo_stormrender": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"saverio/tidus_yuna_s_guardian": {
+"n_combos": 2,
+"pieces": 4,
+"mvs": [
+3,
+3
+],
+"wincons": 2
+},
+"tommaso/infinite_guideline_station": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"tommaso/ulalek_fused_atrocity": {
+"n_combos": 4,
+"pieces": 6,
+"mvs": [
+0,
+2,
+4,
+7
+],
+"wincons": 1
+},
+"jimmy/azula": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"jimmy/inalla": {
+"n_combos": 9,
+"pieces": 12,
+"mvs": [
+1,
+4,
+7,
+5,
+6,
+5,
+9,
+2,
+8
+],
+"wincons": 1
+},
+"jimmy/norin": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"jimmy/sam_frodo": {
+"n_combos": 22,
+"pieces": 20,
+"mvs": [
+0,
+0,
+0,
+0,
+2,
+2,
+0,
+0,
+0,
+0,
+1,
+0,
+0,
+0,
+0,
+0,
+4,
+0,
+0,
+0,
+0,
+0
+],
+"wincons": 0
+},
+"jimmy/teval": {
+"n_combos": 4,
+"pieces": 8,
+"mvs": [
+0,
+0,
+1,
+1
+],
+"wincons": 0
+},
+"jimmy/vincent": {
+"n_combos": 1,
+"pieces": 2,
+"mvs": [
+0
+],
+"wincons": 0
+},
+"jimmy/zevlor": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"rocchi/aragorn_the_uniter": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"rocchi/ardbert_warrior_of_darkness": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"rocchi/bill_the_pony": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"rocchi/dragonhawk_fate_s_tempest": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"rocchi/general_ferrous_rokiric": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"rocchi/leonardo_da_vinci": {
+"n_combos": 1,
+"pieces": 3,
+"mvs": [
+0
+],
+"wincons": 0
+},
+"rocchi/lorehold_the_historian": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"rocchi/minsc_boo_timeless_heroes": {
+"n_combos": 2,
+"pieces": 3,
+"mvs": [
+5,
+2
+],
+"wincons": 1
+},
+"rocchi/monica_rambeau": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"rocchi/myrel_shield_of_argive": {
+"n_combos": 1,
+"pieces": 2,
+"mvs": [
+0
+],
+"wincons": 0
+},
+"rocchi/omer_king_of_rohan": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"rocchi/rilsa_rael_kingpin": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"rocchi/saskia_the_unyielding_2": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"rocchi/syr_vondam_sunstar_exemplar": {
+"n_combos": 2,
+"pieces": 3,
+"mvs": [
+0,
+0
+],
+"wincons": 0
+},
+"saverio/cloud_midgar_mercenary": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"saverio/killian_decisive_mentor": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"saverio/knuckles_the_echidna": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"saverio/lucky_the_pizza_dog": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"saverio/quintorius_history_chaser": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"saverio/shadow_the_hedgehog": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"saverio/ureni_of_the_unwritten": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"saverio/vial_smasher_the_fierce": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"tommaso/ardyn_the_usurper": {
+"n_combos": 1,
+"pieces": 2,
+"mvs": [
+5
+],
+"wincons": 1
+},
+"tommaso/bello_bard_of_the_brambles": {
+"n_combos": 3,
+"pieces": 4,
+"mvs": [
+0,
+0,
+0
+],
+"wincons": 0
+},
+"tommaso/bill_ferny_bree_swindler": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"tommaso/blech_loafing_pest": {
+"n_combos": 1,
+"pieces": 2,
+"mvs": [
+3
+],
+"wincons": 0
+},
+"tommaso/dina_essence_brewer": {
+"n_combos": 3,
+"pieces": 4,
+"mvs": [
+3,
+3,
+2
+],
+"wincons": 2
+},
+"tommaso/dina_essence_brewer_2": {
+"n_combos": 3,
+"pieces": 4,
+"mvs": [
+3,
+3,
+2
+],
+"wincons": 2
+},
+"tommaso/eluge_the_shoreless_sea": {
+"n_combos": 4,
+"pieces": 9,
+"mvs": [
+0,
+1,
+7,
+11
+],
+"wincons": 0
+},
+"tommaso/faldorn_dread_wolf_herald": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"tommaso/gornog_the_red_reaper": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"tommaso/hearthhull_the_worldseed": {
+"n_combos": 6,
+"pieces": 7,
+"mvs": [
+8,
+8,
+8,
+8,
+8,
+8
+],
+"wincons": 0
+},
+"tommaso/jasmine_boreal_of_the_seven": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"tommaso/samut_voice_of_dissent": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"tommaso/sephara_sky_s_blade": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"tommaso/sergeant_john_benton": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"tommaso/the_gitrog_ravenous_ride": {
+"n_combos": 1,
+"pieces": 2,
+"mvs": [
+3
+],
+"wincons": 1
+},
+"tommaso/the_ur_dragon": {
+"n_combos": 3,
+"pieces": 6,
+"mvs": [
+0,
+0,
+0
+],
+"wincons": 0
+},
+"tommaso/zedruu_the_greathearted": {
+"n_combos": 2,
+"pieces": 3,
+"mvs": [
+3,
+5
+],
+"wincons": 1
+},
+"tommaso/zimone_infinite_analyst": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"casagrande/aminatou_veil_piercer": {
+"n_combos": 2,
+"pieces": 4,
+"mvs": [
+4,
+4
+],
+"wincons": 0
+},
+"casagrande/ashling_the_limitless": {
+"n_combos": 9,
+"pieces": 7,
+"mvs": [
+0,
+4,
+0,
+0,
+4,
+0,
+0,
+4,
+0
+],
+"wincons": 0
+},
+"casagrande/atraxa_praetors_voice": {
+"n_combos": 3,
+"pieces": 7,
+"mvs": [
+6,
+0,
+0
+],
+"wincons": 0
+},
+"casagrande/basim_ibn_ishaq": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"casagrande/delney_streetwise_lookout": {
+"n_combos": 1,
+"pieces": 2,
+"mvs": [
+2
+],
+"wincons": 1
+},
+"casagrande/esika_god_of_the_tree": {
+"n_combos": 3,
+"pieces": 5,
+"mvs": [
+6,
+0,
+4
+],
+"wincons": 0
+},
+"casagrande/evereth_viceroy_of_plunder": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"casagrande/firion_wild_rose_warrior": {
+"n_combos": 1,
+"pieces": 2,
+"mvs": [
+0
+],
+"wincons": 0
+},
+"casagrande/galadriel_of_lothl_rien": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"casagrande/glarb_calamity_s_augur": {
+"n_combos": 1,
+"pieces": 2,
+"mvs": [
+17
+],
+"wincons": 0
+},
+"casagrande/glissa_the_traitor": {
+"n_combos": 7,
+"pieces": 7,
+"mvs": [
+0,
+2,
+2,
+0,
+2,
+0,
+2
+],
+"wincons": 0
+},
+"casagrande/golbez_crystal_collector": {
+"n_combos": 2,
+"pieces": 7,
+"mvs": [
+2,
+0
+],
+"wincons": 0
+},
+"casagrande/gonti_canny_acquisitor": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"casagrande/henzie_toolbox_torre": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"casagrande/indominus_rex_alpha": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"casagrande/isshin_two_heavens_as_one": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"casagrande/kefka_court_mage": {
+"n_combos": 3,
+"pieces": 8,
+"mvs": [
+0,
+0,
+1
+],
+"wincons": 1
+},
+"casagrande/king_of_the_oathbreakers": {
+"n_combos": 1,
+"pieces": 2,
+"mvs": [
+5
+],
+"wincons": 0
+},
+"casagrande/lonis_cryptozoologist": {
+"n_combos": 2,
+"pieces": 4,
+"mvs": [
+1,
+1
+],
+"wincons": 0
+},
+"casagrande/millicent_restless_revenant": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"casagrande/muldrotha_the_gravetide": {
+"n_combos": 9,
+"pieces": 9,
+"mvs": [
+8,
+8,
+8,
+8,
+8,
+8,
+8,
+0,
+8
+],
+"wincons": 0
+},
+"casagrande/nine_fingers_keene": {
+"n_combos": 1,
+"pieces": 2,
+"mvs": [
+12
+],
+"wincons": 1
+},
+"casagrande/rev_tithe_extractor": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"casagrande/sauron_the_dark_lord": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"casagrande/scion_of_the_ur_dragon": {
+"n_combos": 3,
+"pieces": 4,
+"mvs": [
+0,
+0,
+0
+],
+"wincons": 0
+},
+"casagrande/sharuum_the_hegemon": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"casagrande/shiko_and_narset_unified": {
+"n_combos": 2,
+"pieces": 3,
+"mvs": [
+5,
+0
+],
+"wincons": 0
+},
+"casagrande/shorikai_genesis_engine": {
+"n_combos": 12,
+"pieces": 12,
+"mvs": [
+0,
+0,
+2,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"wincons": 0
+},
+"casagrande/temmet_naktamun_s_will": {
+"n_combos": 2,
+"pieces": 5,
+"mvs": [
+0,
+0
+],
+"wincons": 0
+},
+"casagrande/terra_magical_adept": {
+"n_combos": 3,
+"pieces": 4,
+"mvs": [
+6,
+6,
+2
+],
+"wincons": 0
+},
+"casagrande/teval_arbiter_of_virtue": {
+"n_combos": 6,
+"pieces": 11,
+"mvs": [
+8,
+8,
+0,
+8,
+3,
+0
+],
+"wincons": 2
+},
+"casagrande/teval_the_balanced_scale": {
+"n_combos": 9,
+"pieces": 9,
+"mvs": [
+8,
+8,
+8,
+8,
+8,
+8,
+8,
+0,
+8
+],
+"wincons": 0
+},
+"casagrande/the_master_of_keys": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"casagrande/toph_the_first_metalbender": {
+"n_combos": 5,
+"pieces": 9,
+"mvs": [
+2,
+0,
+0,
+0,
+0
+],
+"wincons": 0
+},
+"casagrande/vivi_ornitier": {
+"n_combos": 1,
+"pieces": 1,
+"mvs": [
+0
+],
+"wincons": 0
+},
+"casagrande/yuna_grand_summoner": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"g_prete/aragorn_the_uniter": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"g_prete/camellia_the_seedmiser": {
+"n_combos": 1,
+"pieces": 3,
+"mvs": [
+0
+],
+"wincons": 0
+},
+"g_prete/omo_queen_of_vesuva": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"g_prete/shorikai_genesis_engine": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"g_prete/zurgo_stormrender": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"montauti/halana_and_alena_partners": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"montauti/hylda_of_the_icy_crown": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"montauti/lathril_blade_of_the_elves": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"montauti/mirri_weatherlight_duelist": {
+"n_combos": 1,
+"pieces": 2,
+"mvs": [
+0
+],
+"wincons": 0
+},
+"montauti/ms_bumbleflower": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"montauti/tergrid_god_of_fright": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"sbernuz/arna_kenner_d_skycaptain": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"sbernuz/dion_bahamut_s_dominant": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"sbernuz/yurlok_of_scorch_thrash": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+}
+}

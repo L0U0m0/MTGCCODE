@@ -1,0 +1,95 @@
+1 Indominus Rex, Alpha
+1 Alpha Deathclaw
+1 Animal Attendant
+1 Animate Dead
+1 Arcane Signet
+1 Assassin's Trophy
+1 Baleful Strix
+1 Beast Within
+1 Beastcaller Savant
+1 Biophagus
+1 Birds of Paradise
+1 Blitzball Stadium
+1 Breaker of Creation
+1 Breeding Pool
+1 Bringer of the Last Gift
+1 Command Tower
+1 Darkbore Pathway // Slitherbore Pathway
+1 Deadly Rollick
+1 Deathcap Glade
+1 Elder Gargaroth
+1 End-Raze Forerunners
+1 Exotic Orchard
+1 Flooded Grove
+4 Forest
+1 Glissa Sunslayer
+1 Gloomlake Verge
+1 Guardian Project
+1 Hedge Maze
+1 Incarnation Technique
+1 Irenicus's Vile Duplication
+2 Island
+1 Kefnet the Mindful
+1 Kodama's Reach
+1 Leyline Prowler
+1 Living Death
+1 Llanowar Wastes
+1 Luxior, Giada's Gift
+1 Marsh Flats
+1 Metamorphosis Fanatic
+1 Mirri the Cursed
+1 Misty Rainforest
+1 Morbius the Living Vampire
+1 Morphic Pool
+1 Nature's Lore
+1 Negate
+1 Nesting Grounds
+1 Nighthawk Scavenger
+1 Nightveil Predator
+1 Nullpriest of Oblivion
+1 Overgrown Tomb
+1 Oversold Cemetery
+1 Polluted Delta
+1 Qarsi Revenant
+1 Questing Beast
+1 Reanimate
+1 Reliquary Tower
+1 Repulsive Mutation
+1 Rhonas the Indomitable
+1 Rise of the Dark Realms
+1 Rogue's Passage
+1 Sab-Sunen, Luxa Embodied
+1 Sakashima the Impostor
+1 Scavenged Brawler
+1 Sire of Seven Deaths
+1 Skyserpent Seeker
+1 Smuggler's Surprise
+1 Sol Ring
+1 Spark Double
+1 Sphinx of the Final Word
+1 Stubborn Denial
+1 Sunken Ruins
+2 Swamp
+1 Sylvan Caryatid
+1 Sylvan Library
+1 Takenuma, Abandoned Mire
+1 Talisman of Dominance
+1 Talisman of Resilience
+1 The Mimeoplasm
+1 The Ozolith
+1 The Warring Triad
+1 Three Visits
+1 Toxic Deluge
+1 Triplicate Titan
+1 Twilight Mire
+1 Undercity Sewers
+1 Underground Mortuary
+1 Underground River
+1 Undergrowth Stadium
+1 Venomthrope
+1 Verdant Catacombs
+1 Wastewood Verge
+1 Watery Grave
+1 Weathered Sentinels
+1 Yavimaya Coast
+1 Zagoth Triome

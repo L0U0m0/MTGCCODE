@@ -1,0 +1,100 @@
+1 Atraxa, Praetors' Voice
+1 Ajani, Sleeper Agent
+1 Arcane Signet
+1 Arid Mesa
+1 Ashiok, Dream Render
+1 Astral Cornucopia
+1 Bayou
+1 Birds of Paradise
+1 Bloodstained Mire
+1 Bloom Tender
+1 Boseiju, Who Endures
+1 Bountiful Promenade
+1 Breeding Pool
+1 Brokers Ascendancy
+1 Carth the Lion
+1 Command Tower
+1 Cultivate
+1 Damnation
+1 Deathcap Glade
+1 Deepglow Skate
+1 Delighted Halfling
+1 Doubling Season
+1 Dovin's Veto
+1 Dreamroot Cascade
+1 Dreamtide Whale
+1 Drown in Ichor
+1 Elspeth, Sun's Champion
+1 Everflowing Chalice
+1 Evolution Sage
+1 Experimental Augury
+1 Ezuri, Stalker of Spheres
+1 Farewell
+1 Farseek
+1 Fierce Guardianship
+1 Flooded Strand
+1 Flux Channeler
+1 Forest
+1 Gatewatch Beacon
+1 Godless Shrine
+1 Grateful Apparition
+1 Hallowed Fountain
+1 Ichormoon Gauntlet
+1 Indatha Triome
+1 Island
+1 Jace, Unraveler of Secrets
+1 Karn Liberated
+1 Kaya the Inexorable
+1 Liliana, Dreadhorde General
+1 Marsh Flats
+1 Misty Rainforest
+1 Morphic Pool
+1 Mutational Advantage
+1 Narset, Parter of Veils
+1 Noble Hierarch
+1 Oath of Jace
+1 Oath of Nissa
+1 Oath of Teferi
+1 Oko, Thief of Crowns
+1 Onakke Oathkeeper
+1 Otawara, Soaring City
+1 Overgrown Tomb
+1 Plains
+1 Plaza of Heroes
+1 Polluted Delta
+1 Raffine's Tower
+1 Reflecting Pool
+1 Ripples of Potential
+1 Scalding Tarn
+1 Sea of Clouds
+1 Shipwreck Marsh
+1 Sol Ring
+1 Spark Double
+1 Swamp
+1 Swords to Plowshares
+1 Tamiyo, Compleated Sage
+1 Tamiyo, Field Researcher
+1 Teferi, Master of Time
+1 Teferi, Temporal Archmage
+1 Teferi, Time Raveler
+1 Teferi, Who Slows the Sunset
+1 Tekuthal, Inquiry Dominus
+1 Temple Garden
+1 Tezzeret's Gambit
+1 The Eternal Wanderer
+1 The Wandering Emperor
+1 Three Visits
+1 Thrummingbird
+1 Time Wipe
+1 Tropical Island
+1 Ugin, the Spirit Dragon
+1 Underground Sea
+1 Venat, Heart of Hydaelyn // Hydaelyn, the Mothercrystal
+1 Verdant Catacombs
+1 Vorinclex, Monstrous Raider
+1 Vraska, Betrayal's Sting
+1 Vronos, Masked Inquisitor
+1 Watery Grave
+1 Windswept Heath
+1 Wooded Foothills
+1 Wrenn and Realmbreaker

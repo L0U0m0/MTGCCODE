@@ -1,0 +1,93 @@
+1 Henzie "Toolbox" Torre
+1 Ancient Tomb
+1 Apex Devastator
+1 Arbor Adherent
+1 Arcane Signet
+1 Archon of Cruelty
+1 Archpriest of Shadows
+1 Arid Mesa
+1 Ashaya, Soul of the Wild
+1 Badlands
+1 Bane of Progress
+1 Bayou
+1 Beledros Witherbloom
+1 Birds of Paradise
+1 Birthing Ritual
+1 Blood Crypt
+1 Bloodstained Mire
+1 Bloom Tender
+1 Blossoming Tortoise
+1 Cemetery Desecrator
+1 Chainer, Nightmare Adept
+1 Champion of Rhonas
+1 Cinder Glade
+1 Colossal Grave-Reaver
+1 Command Tower
+1 Deadwood Treefolk
+1 Demonlord Belzenlok
+1 Disciple of Bolas
+1 Dragonskull Summit
+1 Druid of Purification
+1 Etali, Primal Conqueror // Etali, Primal Sickness
+1 Evendo, Waking Haven
+1 Fanatic of Rhonas
+1 Farseek
+5 Forest
+1 Gaea's Cradle
+1 Generous Ent
+1 Ghalta, Stampede Tyrant
+1 God-Eternal Bontu
+1 God-Eternal Rhonas
+1 Goreclaw, Terror of Qal Sisma
+1 Greater Good
+1 Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun
+1 Heartless Summoning
+1 Honest Rutstein
+1 Ilharg, the Raze-Boar
+1 Junji, the Midnight Sky
+1 Kogla, the Titan Ape
+1 Lumra, Bellow of the Woods
+1 Marsh Flats
+1 Metamorphosis Fanatic
+1 Moraug, Fury of Akoum
+1 Mosswort Bridge
+2 Mountain
+1 Nature's Lore
+1 Necron Deathmark
+1 Nylea, Keen-Eyed
+1 Ojer Kaslem, Deepest Growth // Temple of Cultivation
+1 Old Gnawbone
+1 Oliphaunt
+1 Overgrown Tomb
+1 Overlord of the Balemurk
+1 Overlord of the Hauntwoods
+1 Phyrexian Delver
+1 Phyrexian Tower
+1 Polluted Delta
+1 Primeval Herald
+1 Rakdos, the Muscle
+1 Relic of Legends
+1 Rune-Scarred Demon
+1 Ruthless Technomancer
+1 Scalding Tarn
+1 Seedguide Ash
+1 Six
+1 Sol Ring
+1 Sowing Mycospawn
+1 Surrak and Goreclaw
+3 Swamp
+1 Taiga
+1 The Great Henge
+1 Three Visits
+1 Troll of Khazad-dûm
+1 Trumpeting Carnosaur
+1 Umori, the Collector
+1 Up the Beanstalk
+1 Urborg, Tomb of Yawgmoth
+1 Vaultborn Tyrant
+1 Vein Ripper
+1 Verdant Catacombs
+1 Wooded Foothills
+1 Woodland Cemetery
+1 Ziatora's Proving Ground
+1 Ziatora, the Incinerator
