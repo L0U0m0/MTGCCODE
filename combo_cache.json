@@ -1,5 +1,5 @@
 {
-"jimmy/azlask": {
+"pol/azlask": {
 "n_combos": 14,
 "pieces": 11,
 "mvs": [
@@ -20,7 +20,7 @@
 ],
 "wincons": 0
 },
-"jimmy/deadpool": {
+"pol/deadpool": {
 "n_combos": 3,
 "pieces": 5,
 "mvs": [
@@ -30,7 +30,7 @@
 ],
 "wincons": 2
 },
-"jimmy/edgar_markov": {
+"pol/edgar_markov": {
 "n_combos": 4,
 "pieces": 4,
 "mvs": [
@@ -41,7 +41,7 @@
 ],
 "wincons": 0
 },
-"jimmy/first_sliver": {
+"pol/first_sliver": {
 "n_combos": 3,
 "pieces": 6,
 "mvs": [
@@ -51,19 +51,19 @@
 ],
 "wincons": 0
 },
-"jimmy/first_sliver_slayer": {
+"pol/first_sliver_slayer": {
 "n_combos": 0,
 "pieces": 0,
 "mvs": [],
 "wincons": 0
 },
-"jimmy/noctis": {
+"pol/noctis": {
 "n_combos": 0,
 "pieces": 0,
 "mvs": [],
 "wincons": 0
 },
-"jimmy/sonic": {
+"pol/sonic": {
 "n_combos": 4,
 "pieces": 9,
 "mvs": [
@@ -74,7 +74,7 @@
 ],
 "wincons": 2
 },
-"jimmy/toph": {
+"pol/toph": {
 "n_combos": 9,
 "pieces": 9,
 "mvs": [
@@ -90,18 +90,7 @@
 ],
 "wincons": 0
 },
-"jimmy/ulalek": {
-"n_combos": 4,
-"pieces": 8,
-"mvs": [
-1,
-7,
-0,
-0
-],
-"wincons": 2
-},
-"jimmy/yshtola": {
+"pol/yshtola": {
 "n_combos": 2,
 "pieces": 5,
 "mvs": [
@@ -110,13 +99,13 @@
 ],
 "wincons": 1
 },
-"jimmy/yshtola_staxgoad": {
+"pol/yshtola_staxgoad": {
 "n_combos": 0,
 "pieces": 0,
 "mvs": [],
 "wincons": 0
 },
-"jimmy/yuna": {
+"pol/yuna": {
 "n_combos": 2,
 "pieces": 3,
 "mvs": [
@@ -315,13 +304,13 @@
 ],
 "wincons": 1
 },
-"jimmy/azula": {
+"pol/azula": {
 "n_combos": 0,
 "pieces": 0,
 "mvs": [],
 "wincons": 0
 },
-"jimmy/inalla": {
+"pol/inalla": {
 "n_combos": 9,
 "pieces": 12,
 "mvs": [
@@ -337,13 +326,13 @@
 ],
 "wincons": 1
 },
-"jimmy/norin": {
+"pol/norin": {
 "n_combos": 0,
 "pieces": 0,
 "mvs": [],
 "wincons": 0
 },
-"jimmy/sam_frodo": {
+"pol/sam_frodo": {
 "n_combos": 22,
 "pieces": 20,
 "mvs": [
@@ -372,7 +361,7 @@
 ],
 "wincons": 0
 },
-"jimmy/teval": {
+"pol/teval": {
 "n_combos": 4,
 "pieces": 8,
 "mvs": [
@@ -383,7 +372,7 @@
 ],
 "wincons": 0
 },
-"jimmy/vincent": {
+"pol/vincent": {
 "n_combos": 1,
 "pieces": 2,
 "mvs": [
@@ -391,7 +380,7 @@
 ],
 "wincons": 0
 },
-"jimmy/zevlor": {
+"pol/zevlor": {
 "n_combos": 0,
 "pieces": 0,
 "mvs": [],

@@ -101,7 +101,7 @@ def by_tag():
 
 
 # Pod A: roster fisso del pod di riferimento (4 sedie, sempre questi 4)
-ROSTER = ["jimmy", "saverio", "rocchi", "tommaso"]
+ROSTER = ["pol", "saverio", "rocchi", "tommaso"]
 
 
 def sim_A(NG, roster=ROSTER):
