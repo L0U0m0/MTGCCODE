@@ -1,0 +1,89 @@
+1 Fire Lord Azula
+1 Ancestors' Aid
+1 Arcane Signet
+1 Astarion's Thirst
+1 Baleful Mastery
+1 Big Score
+1 Blazing Crescendo
+1 Borne Upon a Wind
+1 Brainstorm
+1 Brainsurge
+1 Brute Strength
+1 Bulk Up
+1 Choked Estuary
+1 Cliffgate
+1 Comet Storm
+1 Command Tower
+1 Consider
+1 Coruscation Mage
+1 Crumbling Necropolis
+1 Curtains' Call
+1 Dark Ritual
+1 Demand Answers
+1 Desperate Ritual
+1 Dragonskull Summit
+1 Dreadmaw's Ire
+1 Drowned Catacomb
+1 Electrodominance
+1 Erratic Cyclops
+1 Fall of the Titans
+1 Fiery Inscription
+1 Fire Nation Palace
+1 Fists of Flame
+1 Flame of Anor
+1 Fling
+1 Focus the Mind
+1 Foreboding Ruins
+1 Frantic Search
+1 Frostboil Snarl
+1 Gimli's Fury
+1 Guttersnipe
+1 Haste Magic
+1 Infuriate
+1 Invigorated Rampage
+3 Island
+1 Jet Medallion
+1 Kessig Flamebreather
+1 Laughing Mad
+1 Leyline of Anticipation
+1 Leyline of Resonance
+1 Moment of Defiance
+10 Mountain
+1 Negate
+1 Octopus Form
+1 Oscorp Industries
+1 Path of Ancestry
+1 Prismari Command
+1 Progenitor's Icon
+1 Quick Study
+1 Redirect Lightning
+1 Reflecting Pool
+1 Ruby Medallion
+1 Run Amok
+1 Sapphire Medallion
+1 Sea Gate
+1 Seething Song
+1 Shivan Reef
+1 Slip Out the Back
+1 Snap
+1 Storm-Kiln Artist
+1 Sudden Breakthrough
+1 Sugar Rush
+1 Sulfur Falls
+1 Sulfurous Springs
+1 Swamp
+1 Swiftfoot Boots
+1 Talisman of Creativity
+1 Talisman of Dominance
+1 Temple of Epiphany
+1 Temur Battle Rage
+1 Thrill of Possibility
+1 Thriving Bluff
+1 Thriving Isle
+1 Thriving Moor
+1 Underground River
+1 Unexpected Windfall
+1 Untimely Malfunction
+1 Veyran, Voice of Duality
+1 Water Wings
+1 Zuko, Firebending Master

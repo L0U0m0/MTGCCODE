@@ -1,0 +1,74 @@
+1 Zevlor, Elturel Exile
+1 Alania, Divergent Storm
+1 Arcane Signet
+1 Archaeomancer
+1 Archmage Emeritus
+1 Ardent Elementalist
+1 Blue Sun's Twilight
+1 Brainspoil
+1 Bribery
+1 Call to Mind
+1 Cerulean Wisps
+1 Cleansing Wildfire
+1 Clone Legion
+1 Command Tower
+1 Cormela, Glamour Thief
+1 Cruel Ultimatum
+1 Crumbling Necropolis
+1 Deekah, Fractal Theorist
+1 Diabolic Tutor
+1 Dimir Aqueduct
+1 Dimir Signet
+1 Double Vision
+1 Dragonskull Summit
+1 Drowned Catacomb
+1 Exotic Orchard
+1 Extract Brain
+1 Fellwar Stone
+1 Flick a Coin
+1 Flood of Recollection
+1 Gilded Lotus
+1 Gitaxian Probe
+1 Hedron Archive
+1 Hithlain Knots
+1 Inevitable Betrayal
+1 Insatiable Avarice
+12 Island
+1 Izzet Boilerworks
+1 Izzet Signet
+1 Leadership Vacuum
+1 Living Lightning
+1 Mastermind's Acquisition
+1 Mindsplice Apparatus
+8 Mountain
+1 Mystic Retrieval
+1 Ojer Pakpatiq, Deepest Epoch // Temple of Cyclical Time
+1 Omen Hawker
+1 Palladium Myr
+1 Peek
+1 Personal Tutor
+1 Portent
+1 Profane Tutor
+1 Professor Zei, Anthropologist
+1 Rakdos Signet
+1 Razaketh's Rite
+1 Relearn
+1 Repulse
+1 Said // Done
+1 Scribe of the Mindful
+1 Solve the Equation
+1 Sorceress's Schemes
+1 Spellkeeper Weird
+1 Storm-Kiln Artist
+1 Sulfur Falls
+9 Swamp
+1 Talisman of Creativity
+1 Talisman of Dominance
+1 The Regalia
+1 Thought Scour
+1 Thran Dynamo
+1 Volcanic Vision
+1 Wayfarer's Bauble
+1 Worn Powerstone
+1 Worst Fears
+1 Zaffai, Thunder Conductor

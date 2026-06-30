@@ -1,0 +1,100 @@
+1 The First Sliver
+1 Ancestral Vision
+1 Arcane Signet
+1 Arid Mesa
+1 Badlands
+1 Basal Sliver
+1 Bayou
+1 Blood Crypt
+1 Bloodline Bidding
+1 Bloodstained Mire
+1 Bonescythe Sliver
+1 Brood Sliver
+1 Cavern of Souls
+1 Chimil, the Inner Sun
+1 Cleansing Nova
+1 Cloudshredder Sliver
+1 Command Tower
+1 Constricting Sliver
+1 Cryptolith Rite
+1 Crystalline Sliver
+1 Cultivate
+1 Diffusion Sliver
+1 Exotic Orchard
+1 Exploration
+1 Farseek
+1 Fellwar Stone
+1 Fierce Guardianship
+1 For the Ancestors
+1 Forest
+1 Galerider Sliver
+1 Gemhide Sliver
+1 Harmonic Sliver
+1 Harsh Mercy
+1 Hatchery Sliver
+1 Herald's Horn
+1 Heroic Intervention
+1 Icon of Ancestry
+1 Indatha Triome
+1 Inevitable Betrayal
+1 Intruder Alarm
+1 Ketria Triome
+1 Kindred Discovery
+1 Lazotep Sliver
+1 Manaweft Sliver
+1 Marsh Flats
+1 Misty Rainforest
+1 Mountain
+1 Nature's Lore
+1 Necrotic Sliver
+1 Patchwork Banner
+1 Path of Ancestry
+1 Plateau
+1 Polluted Delta
+1 Profane Tutor
+1 Quick Sliver
+1 Raugrin Triome
+1 Realmwalker
+1 Reflections of Littjara
+1 Root Sliver
+1 Sacred Foundry
+1 Savai Triome
+1 Savannah
+1 Scalding Tarn
+1 Scroll Rack
+1 Scrubland
+1 Secluded Courtyard
+1 Sensei's Divining Top
+1 Shifting Sliver
+1 Sliver Gravemother
+1 Sliver Hivelord
+1 Sliver Legion
+1 Sliver Overlord
+1 Sliver Queen
+1 Sol Ring
+1 Sol Talisman
+1 Spiteful Sliver
+1 Steam Vents
+1 Swamp
+1 Sylvan Library
+1 Synapse Sliver
+1 Syphon Sliver
+1 Taiga
+1 Teferi's Protection
+1 Three Visits
+1 Thrumming Hivepool
+1 Tropical Island
+1 Tundra
+1 Unclaimed Territory
+1 Underground Sea
+1 Urborg, Tomb of Yawgmoth
+1 Urza's Incubator
+1 Vanquisher's Banner
+1 Venom Sliver
+1 Virulent Sliver
+1 Volcanic Island
+1 Windswept Heath
+1 Wooded Foothills
+1 Xander's Lounge
+1 Yavimaya, Cradle of Growth
+1 Zagoth Triome
