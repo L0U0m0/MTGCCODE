@@ -2,7 +2,7 @@
   "mcpServers": {
     "mtg": {
       "type": "stdio",
-      "command": "python",
+      "command": "C:\\Users\\p.roghi\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
       "args": [
         "-m",
         "mtg_mcp"
