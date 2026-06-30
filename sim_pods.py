@@ -149,11 +149,72 @@ def sim_B(NG):
     return rank, wins, app
 
 
+def play_pod(pod, rng):
+    if len(pod) == 1: return pod[0]
+    w, _, _ = pod_game(pod, rng)
+    return w
+
+
+def sim_tournament(NG, decks_each=2):
+    """Serata a eliminazione: ogni giocatore porta `decks_each` mazzi a caso
+    (= 16 partecipanti con 8 giocatori). Round a pod da 4; i vincitori avanzano
+    fino al campione della serata. Ripetuto NG serate."""
+    tags = by_tag()
+    players = sorted(tags)
+    champ_deck = Counter(); app_deck = Counter()        # campione finale
+    pod_deck = Counter(); pod_played = Counter()        # vittorie di pod (qualsiasi round)
+    champ_player = Counter(); endt = Counter()
+    for _ in range(NG):
+        rng = random.Random(R.randrange(10**9))
+        entries = []
+        for t in players:
+            k = min(decks_each, len(tags[t]))
+            entries += rng.sample(tags[t], k)
+        for d in entries: app_deck[d] += 1
+        rng.shuffle(entries)
+        rounds = 0
+        field = entries
+        while len(field) > 4:
+            rng.shuffle(field); nxt = []
+            for i in range(0, len(field), 4):
+                pod = field[i:i+4]
+                for d in pod: pod_played[d] += 1
+                w = play_pod(pod, rng); pod_deck[w] += 1
+                nxt.append(w)
+            field = nxt; rounds += 1
+        # pod finale
+        for d in field: pod_played[d] += 1
+        champ = play_pod(field, rng); pod_deck[champ] += 1
+        champ_deck[champ] += 1; champ_player[P[champ]['tag']] += 1
+        endt[rounds + 1] += 1
+
+    print(f"\n=== SERATA A ELIMINAZIONE — {len(players)} giocatori x {decks_each} mazzi "
+          f"= {decks_each*len(players)} partecipanti, {NG} serate ===")
+    print(f"\nGIOCATORI — serate vinte (campione):  (atteso equo {100/len(players):.1f}%)")
+    print(f"{'giocatore':11}{'serate vinte':>14}{'%':>8}")
+    for t in sorted(players, key=lambda x: -champ_player[x]):
+        print(f"{t:11}{champ_player[t]:>14}{100*champ_player[t]/NG:>7.1f}%")
+
+    print(f"\nMAZZI — Top 20 per % serate vinte (su quante serate il mazzo e' sceso in campo):")
+    print(f"{'#':>3} {'win%':>6} {'pod-win%':>9}  giocatore · mazzo")
+    rank = sorted([d for d in app_deck if app_deck[d] >= 30],
+                  key=lambda d: -champ_deck[d]/app_deck[d])
+    for i, d in enumerate(rank[:20], 1):
+        cw = 100*champ_deck[d]/app_deck[d]
+        pw = 100*pod_deck[d]/max(1, pod_played[d])
+        print(f"{i:3} {cw:5.1f}% {pw:8.1f}%  {P[d]['tag']} · {d.split('/')[1]}")
+
+    print(f"\nMAZZI — Top 12 per % vittorie di POD (segnale piu' robusto, piu' campioni):")
+    rankp = sorted([d for d in pod_played if pod_played[d] >= 50],
+                   key=lambda d: -pod_deck[d]/pod_played[d])
+    for i, d in enumerate(rankp[:12], 1):
+        print(f"{i:3} {100*pod_deck[d]/pod_played[d]:5.1f}%  {P[d]['tag']} · {d.split('/')[1]}")
+
+
 def main():
-    NG = int(sys.argv[1]) if len(sys.argv) > 1 else 20000
+    NG = int(sys.argv[1]) if len(sys.argv) > 1 else 10000
     print(f"Pool: {len(P)} mazzi | profili EURISTICI (bussola relativa, non verita')")
-    sim_A(NG)
-    sim_B(NG)
+    sim_tournament(NG)
     print("\n[limiti: niente politica/odio da cimitero/interazione carta-per-carta; "
           "combo da Commander Spellbook, resto da euristiche su dati Scryfall]")
 
