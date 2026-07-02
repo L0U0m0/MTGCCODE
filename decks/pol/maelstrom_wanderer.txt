@@ -1,0 +1,78 @@
+1 Maelstrom Wanderer
+1 Sakura-Tribe Elder
+1 Farseek
+1 Cultivate
+1 Kodama's Reach
+1 Harrow
+1 Farhaven Elf
+1 Springbloom Druid
+1 Solemn Simulacrum
+1 Burnished Hart
+1 Birds of Paradise
+1 Llanowar Elves
+1 Elvish Mystic
+1 Sol Ring
+1 Mana Vault
+1 Grow from the Ashes
+1 Devoted Druid
+1 Ornithopter of Paradise
+1 Great Forest Druid
+1 Sutina, Speaker of the Tajuru
+1 Horizon Explorer
+1 Hithlain Rope
+1 Rampaging Baloths
+1 Baloth Woodcrasher
+1 Multani, Yavimaya's Avatar
+1 Savage Ventmaw
+1 Lathliss, Dragon Queen
+1 Bane of Progress
+1 Greenwarden of Murasa
+1 Prime Speaker Zegana
+1 Red Hulk
+1 Avatar Roku, Firebender
+1 Storm, Shaker of Skies
+1 Affectionate Indrik
+1 Grappling Kraken
+1 Kitsune, Dragon's Daughter
+1 Fractal Mascot
+1 Pol Jamaar, Illusionist
+1 Great Oak Guardian
+1 Looming Hoverguard
+1 Groundchuck & Dirtbag
+1 Savage Land Dinosaur
+1 Chartooth Cougar
+1 Waker of Waves
+1 Kulrath Zealot
+1 Combat Celebrant
+1 Kang the Conqueror
+1 Tireless Tracker
+1 Tatyova, Benthic Druid
+1 Omnath, Locus of the Roil
+1 Garruk's Uprising
+1 Enduring Curiosity
+1 Abundant Growth
+1 Seedborn Muse
+1 Natural Order
+1 Abrade
+1 Reality Shift
+1 Primal Might
+1 Bushwhack
+1 Glorious Decay
+1 Haywire Mite
+1 Echoing Ruin
+1 Seismic Rupture
+1 Cinder Glade
+1 Dreamroot Cascade
+1 Frontier Bivouac
+1 Gruul Guildgate
+1 Gruul Turf
+1 Hinterland Harbor
+1 Raging Ravine
+1 Rootbound Crag
+1 Rugged Highlands
+1 Rain-Slicked Copse
+1 Boseiju, Who Endures
+1 Mutant Town
+11 Forest
+7 Mountain
+7 Island
