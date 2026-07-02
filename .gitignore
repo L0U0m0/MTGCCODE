@@ -1,2 +1,4 @@
 .claude/
 files.zip
+__pycache__/
+*.pyc

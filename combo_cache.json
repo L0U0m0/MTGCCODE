@@ -30,27 +30,6 @@
 ],
 "wincons": 2
 },
-"pol/edgar_markov": {
-"n_combos": 4,
-"pieces": 4,
-"mvs": [
-0,
-0,
-0,
-0
-],
-"wincons": 0
-},
-"pol/first_sliver": {
-"n_combos": 3,
-"pieces": 6,
-"mvs": [
-0,
-0,
-0
-],
-"wincons": 0
-},
 "pol/first_sliver_slayer": {
 "n_combos": 0,
 "pieces": 0,
@@ -62,17 +41,6 @@
 "pieces": 0,
 "mvs": [],
 "wincons": 0
-},
-"pol/sonic": {
-"n_combos": 4,
-"pieces": 9,
-"mvs": [
-0,
-4,
-3,
-3
-],
-"wincons": 2
 },
 "pol/toph": {
 "n_combos": 9,
@@ -1087,5 +1055,86 @@
 "pieces": 0,
 "mvs": [],
 "wincons": 0
+},
+"pol/deadpool_b3opt": {
+"n_combos": 5,
+"pieces": 8,
+"mvs": [
+0,
+0,
+9,
+9,
+2
+],
+"wincons": 3
+},
+"pol/mimeoplasm": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"pol/ms_bumbleflower": {
+"n_combos": 2,
+"pieces": 5,
+"mvs": [
+0,
+4
+],
+"wincons": 0
+},
+"pol/obeka": {
+"n_combos": 2,
+"pieces": 3,
+"mvs": [
+0,
+0
+],
+"wincons": 0
+},
+"pol/shroofus": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"pol/edgar_markov": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"pol/first_sliver": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"pol/sonic": {
+"n_combos": 4,
+"pieces": 9,
+"mvs": [
+0,
+4,
+3,
+3
+],
+"wincons": 2
+},
+"pol/ultron": {
+"n_combos": 9,
+"pieces": 13,
+"mvs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"wincons": 4
 }
 }
