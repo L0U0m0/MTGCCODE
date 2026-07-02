@@ -20,16 +20,6 @@
 ],
 "wincons": 0
 },
-"pol/deadpool": {
-"n_combos": 3,
-"pieces": 5,
-"mvs": [
-0,
-9,
-2
-],
-"wincons": 2
-},
 "pol/first_sliver_slayer": {
 "n_combos": 0,
 "pieces": 0,
@@ -298,35 +288,6 @@
 "n_combos": 0,
 "pieces": 0,
 "mvs": [],
-"wincons": 0
-},
-"pol/sam_frodo": {
-"n_combos": 22,
-"pieces": 20,
-"mvs": [
-0,
-0,
-0,
-0,
-2,
-2,
-0,
-0,
-0,
-0,
-1,
-0,
-0,
-0,
-0,
-0,
-4,
-0,
-0,
-0,
-0,
-0
-],
 "wincons": 0
 },
 "pol/teval": {
@@ -1068,12 +1029,6 @@
 ],
 "wincons": 3
 },
-"pol/mimeoplasm": {
-"n_combos": 0,
-"pieces": 0,
-"mvs": [],
-"wincons": 0
-},
 "pol/ms_bumbleflower": {
 "n_combos": 2,
 "pieces": 5,
@@ -1092,11 +1047,26 @@
 ],
 "wincons": 0
 },
-"pol/shroofus": {
-"n_combos": 0,
-"pieces": 0,
-"mvs": [],
-"wincons": 0
+"pol/sonic": {
+"n_combos": 4,
+"pieces": 9,
+"mvs": [
+0,
+4,
+3,
+3
+],
+"wincons": 2
+},
+"pol/deadpool": {
+"n_combos": 3,
+"pieces": 5,
+"mvs": [
+0,
+9,
+2
+],
+"wincons": 2
 },
 "pol/edgar_markov": {
 "n_combos": 0,
@@ -1110,16 +1080,46 @@
 "mvs": [],
 "wincons": 0
 },
-"pol/sonic": {
-"n_combos": 4,
-"pieces": 9,
+"pol/mimeoplasm": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"pol/sam_frodo": {
+"n_combos": 22,
+"pieces": 20,
 "mvs": [
 0,
+0,
+0,
+0,
+2,
+2,
+0,
+0,
+0,
+0,
+1,
+0,
+0,
+0,
+0,
+0,
 4,
-3,
-3
+0,
+0,
+0,
+0,
+0
 ],
-"wincons": 2
+"wincons": 0
+},
+"pol/shroofus": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
 },
 "pol/ultron": {
 "n_combos": 9,

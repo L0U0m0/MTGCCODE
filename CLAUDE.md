@@ -205,6 +205,9 @@ Obeka 20% (mull 18%) · First Sliver 18% · Vincent 16% · Shroofus 15% · Deadp
 
 - Una lista per file, nominata col comandante, dentro il folder del giocatore: `decks/pol/sonic.txt`, ...
 - Formato: `1 Nome Carta` per riga (set code tra parentesi opzionale), **terre base incluse**, niente categorie.
+- **Tracker modifiche fisiche**: ogni swap deciso in chat sui mazzi REALI di pol va registrato in
+  `decks/pol/MODIFICHE_FISICHE.md` (FUORI/DENTRO + dove trovare la carta in collezione) — i txt
+  cambiano subito, le deckbox no; il tracker è il ponte finché pol non applica fisicamente.
 - Export Archidekt/Moxfield vanno bene così come sono.
 - Quando un mazzo cambia in modo sostanziale, **riaggiorna il txt**: questo file e i txt sono fotografie,
   non collegamenti vivi.
