@@ -132,8 +132,18 @@ hanno i tipi di terra base, quindi Evolving Wilds/Terramorphic Expanse (presenti
 possono più fetcharle — downgrade di manabase, probabilmente per motivi di collezione/valore.
 
 ### Combo chiave per mazzo (verificate sui txt reali)
-- **Deadpool**: combo storiche (Orthion+Terror of the Peaks; Nim Deathmantle+Ashnod's Altar+Bowmasters) — da riverificare pezzo per pezzo, non ricontrollate in questa sessione.
+- **Deadpool**: Orthion+Terror of the Peaks e Nim Deathmantle+Ashnod's Altar+Bowmasters **confermate in lista**.
+  Sundial of the Infinite rende permanenti le copie temporanee (termina il turno prima del trigger).
+  **Il comandante è uno spot-removal no-target** (ruling verificato): lo scambio textbox è "as enters",
+  non fa target né usa la pila → bypassa shroud/hexproof/ward; lo scambio PERSISTE se Deadpool lascia
+  il campo (la creatura avversaria resta neutralizzata col "perdi 3 vite/upkeep" addosso), e Deadpool
+  rientrato è un oggetto nuovo → nuovo scambio. Blink/reanimation = removal ricaricabile.
 - **Sam & Frodo**: Warren Soultrader + Cauldron Familiar + (Academy Manufactor / Peregrin Took) drain infinito, **confermato presente**; manca ancora Pitiless Plunderer per il loop con Ashnod's Altar.
+  Direzione upgrade voluta da pol: convertitori "lifegain→drain". Liberi in collezione: Sanguine Bond
+  (nel maybeboard fisico!), Marauding Blight-Priest x3, Dina Soul Steeper (2° sac outlet), South Wind
+  Avatar, Gyome/Well of Lost Dreams/Dawn of Hope. ⚠️ Exquisite Blood è sciolta nei box: +Sanguine Bond
+  = infinito a 2 carte → sforerebbe il B3. Tagli da decidere con pol (candidati non valutabili senza
+  di lui: Mutagen Man, Blossoming Bogbeast, Queen Allenal, Quina).
 - **Shroofus**: nessun infinito; motore go-wide Shroofus+doubler+anthem, Gaea's Cradle come accelerante.
 - **Toph**: Springheart Nantuko + (Lotus Cobra / Tireless Provisioner) landfall infinito, **confermato presente**; Toph+Bumi+Liquimetal Coating.
 - **Vincent**: Exquisite Blood + Enduring Tenacity (drain infinito), **confermato presente** — motivo per cui resta B4 di fatto pur avendo solo 3 GC.
@@ -159,7 +169,13 @@ possono più fetcharle — downgrade di manabase, probabilmente per motivi di co
 5. **Shroofus — completamento**: The Great Henge è in maybeboard invece che in main (ROI alto,
    va dentro); Firdoch Core/Phyrexian Altar/Wolfwillow Haven in maybeboard sono filler deboli per
    l'archetipo, meglio lasciarli fuori.
-6. **Ultron**: 101 carte, taglio di 1 da decidere prima di poterlo montare.
+6. **Ultron**: ora 100 carte (tagliato Idol of Oblivion). Per montarlo: 79 nomi mancanti ≈ 581€
+   (≈318€ condividendo 11 carte già in altri mazzi) — dettaglio in `decks/pol/ultron_mancanti.md`.
+7. **Analisi approfondita strategica in corso** (2026-07-02, pol valida le letture una per una):
+   fatta Deadpool (lettura confermata + correzione sul comandante-removal) e Sam & Frodo (confermata,
+   upgrade lifegain→drain individuati, tagli in sospeso). Prossimi: shroofus, toph, vincent, sonic,
+   first_sliver, yshtola, edgar_markov, mimeoplasm.
+8. **Modifiche fisiche pendenti**: vedi `decks/pol/MODIFICHE_FISICHE.md` (10 swap da applicare).
 
 **Buona notizia:** Edgar Markov era segnalato B4 nel vecchio audit — il mazzo fisico di pol lo ha
 **già derated a B3** (via GC=3, niente fast mana, niente combo). Lavoro già fatto, nessuna azione.
