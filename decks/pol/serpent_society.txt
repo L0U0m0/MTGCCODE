@@ -3,7 +3,7 @@
 1 Tinybones, the Pickpocket
 1 Virulent Emissary
 1 Serpent Specialist
-1 Squirrelanoids
+1 Evolution Sage
 1 Burrog Banemaker
 1 Fynn, the Fangbearer
 1 Hapatra, Vizier of Poisons
@@ -21,7 +21,7 @@
 1 The Destined Black Mage
 1 Trystan, Callous Cultivator // Trystan, Penitent Culler
 1 Ohran Frostfang
-1 Thornweald Archer
+1 Questing Beast
 1 Vastlands Scavenger // Bind to Life
 1 Gorma, the Gullet
 1 Tergrid, God of Fright
