@@ -177,6 +177,11 @@ possono più fetcharle — downgrade di manabase, probabilmente per motivi di co
    upgrade lifegain→drain individuati, tagli in sospeso). Prossimi: shroofus, toph, vincent, sonic,
    first_sliver, yshtola, edgar_markov, mimeoplasm.
 8. **Modifiche fisiche pendenti**: vedi `decks/pol/MODIFICHE_FISICHE.md` (10 swap da applicare).
+9. **File di ottimizzazione per mazzo** (2026-07-02): ogni mazzo reale ha il suo
+   `decks/pol/<mazzo>_note.md` con stato, difetti, upgrade dalla collezione libera (con
+   posizione box) e shopping fuori collezione (prezzi Cardmarket). Strategie validate con
+   pol solo per Deadpool e Sam&Frodo; le altre 8 letture sono da validare una per una.
+   Contese di copie singole segnate nei file (Dina, Sanguine Bond, Lightning Bolt, ecc.).
 
 **Buona notizia:** Edgar Markov era segnalato B4 nel vecchio audit — il mazzo fisico di pol lo ha
 **già derated a B3** (via GC=3, niente fast mana, niente combo). Lavoro già fatto, nessuna azione.
