@@ -1136,5 +1136,15 @@
 0
 ],
 "wincons": 4
+},
+"pol/serpent_society": {
+"n_combos": 3,
+"pieces": 4,
+"mvs": [
+0,
+0,
+0
+],
+"wincons": 1
 }
 }

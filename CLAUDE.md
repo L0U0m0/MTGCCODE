@@ -124,6 +124,7 @@ Tutti 100 carte incluso il comandante, salvo dove segnalato. GC contati sulla li
 | `ultron` | Ultron, Artificial Malevolence | incolore/artefatti | **101 carte**, da tagliare di 1 prima di montarlo. Shell Urza-lands/Eldrazi/Ugin |
 | `obeka` | Obeka, Splitter of Seconds | Grixis | drain (Vito/Aclazotz/Exquisite Blood+Sanguine Bond) + pacchetto controspell gratuiti/economici + sottotema Gates/Maze's End |
 | `ms_bumbleflower` | Ms. Bumbleflower | Bant | +1/+1 counters, stessa famiglia archetipica di Yuna (ora rimossa dalla repo, vedi nota pulizia) |
+| `serpent_society` | The Serpent Society | Golgari | deathtouch-aristocrats/edict, **B3 alto** (GC: Tergrid+Worldly Tutor+Mana Vault). **Montabile al 100% da collezione sciolta** (costruito 2026-07-02). Il comandante è un Grave Pact in command zone; Ophiomancer+sac outlet = edict/turno; Tergrid ruba i sacrifici. Nota: Dina contesa con l'upgrade sam_frodo. Sim: 19.7% ma il modello non vede il testo del comandante (sottostimato); debolezza reale: prot~1, fragile ai wrath |
 
 **Nota Sonic — manabase:** il vecchio audit raccomandava di tagliare le tapland per le duali
 originali (Tundra/Plateau/Volcanic Island). **È successo il contrario**: pol ha sostituito le
