@@ -34,7 +34,7 @@
 1 Fated Firepower
 1 Feign Death
 1 Foreboding Ruins
-1 Grave Betrayal
+1 Terminate
 1 Graven Cairns
 1 Heat Shimmer
 1 Helm of the Host

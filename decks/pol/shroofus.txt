@@ -40,7 +40,7 @@
 1 Helm of the Host
 1 Skullclamp
 1 Banner of Kinship
-1 Defense Grid
+1 Beast Within
 1 Eldrazi Monument
 1 Sword of the Animist
 1 White Lotus Tile

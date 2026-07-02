@@ -32,7 +32,7 @@
 1 Prologue to Phyresis
 1 Heritage Reclamation
 1 Experimental Augury
-1 Auroral Procession
+1 Hero's Downfall
 1 Aspirant's Ascent
 1 Tear Asunder
 1 Frantic Search
@@ -59,7 +59,7 @@
 1 Chromatic Lantern
 1 Mind Stone
 1 Sultai Monument
-1 Sultai Banner
+1 Assassin's Trophy
 1 Monastery Siege
 1 Titans' Nest
 1 Overgrown Tomb
