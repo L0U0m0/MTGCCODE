@@ -66,7 +66,32 @@ Nota: 11 delle carte di Ultron sotto i 5€ le possiedi già in altri mazzi (ved
 `ultron_mancanti.md`) — con le proxy delle costose, il resto lo copri tra acquisti
 veri economici (~60 €) e carte condivise.
 
-## Fuori lista (borderline <5€, se l'ordine ha spazio)
-Sorin, Imperious Bloodlord 4,85 (edgar) · Morophon, the Boundless 4,80 (first_sliver) ·
-Apex Devastator 4,09 (wanderer) · Elemental Bond 3,98 (wanderer) · Braids, Arisen
-Nightmare 3,90 (vincent) · Spirebluff Canal 3,82 (sonic).
+## D. Aggiunte per ordine a ~1€/carta — premium prima auto-censurate per prezzo
+
+| € | Carta | Mazzo | Perché |
+|--:|---|---|---|
+| 36,45 | **Esper Sentinel** (2ª copia) | yshtola | tassa/pesca, NON è GC; la 1ª è in Toph |
+| 25,44 | **Sword of Feast and Famine** (2ª) | maelstrom_wanderer | la 1ª libera va a Toph |
+| 23,60 | **The Meathook Massacre** (2ª) | serpent_society | wrath+drain, perfetto per gli edict; 1ª in Vincent |
+| 20,52 | **Etali, Primal Conqueror** | maelstrom_wanderer | ramp-payoff definitivo |
+| 20,50 | **Grave Pact** (3ª copia) | serpent_society | il VERO secondo edict; 1ª/2ª in Edgar e Vincent |
+| 15,71 | **Craterhoof Behemoth** | shroofus | il finisher che manca al go-wide — NON è GC |
+| 3,88 | Slip Out the Back | muddle | protezione del trigger |
+| 3,01 | Pitiless Plunderer | sam_frodo | il pezzo documentato mancante ⚠️ chiude il loop con Ashnod's Altar: valuta il bracket |
+
+## E. Manabase protetta — il caso d'uso migliore delle proxy
+Proxy delle **duali originali che POSSIEDI**: giochi la proxy, l'originale va in binder.
+- **Tundra, Plateau, Volcanic Island → tornano in Sonic** (il fix manabase documentato,
+  che avevi rinunciato per non rovinare le carte: 3 proxy = problema risolto)
+- Opzionale in blocco: le ~14 duali Revised/CE attualmente nelle deckbox (First Sliver ne
+  ha 9, Toph 3, Edgar 2) — 14€ di proxy per togliere ~600€+ di cartone dai tavoli
+
+## Fuori lista (borderline 2-5€ — a 1€/proxy convengono tutte)
+Sorin, Imperious Bloodlord 4,85 (edgar) · Morophon 4,80 (first_sliver) · Apex Devastator
+4,09 (wanderer) · Elemental Bond 3,98 (wanderer) · Braids, Arisen Nightmare 3,90 (vincent) ·
+Spirebluff Canal 3,82 (sonic) · Basilisk Collar 3,15 (serpent) · Momentous Fall 2,87 (wanderer) ·
+Temur Ascendancy 2,81 (wanderer) · Blooming Marsh 2,73 (serpent) · Grim Haruspex 2,47 (serpent) ·
+Goblin Bombardment 2,42 (deadpool) · Moraug 2,39 (toph) · Gray Merchant 2,33 (vincent) ·
+Blood Artist 2,06 (vincent).
+**Sotto i ~1,50€ compra le carte vere** (Butcher of Malakir 0,40, Hornet Queen 0,30,
+Homing/Dormant Sliver 0,20, Muddle stessa 0,41…): costano meno dell'originale.
