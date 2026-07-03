@@ -234,3 +234,29 @@ Obeka 20% (mull 18%) · First Sliver 18% · Vincent 16% · Shroofus 15% · Deadp
 - Quando un mazzo cambia in modo sostanziale, **riaggiorna il txt**: questo file e i txt sono fotografie,
   non collegamenti vivi.
 - Fonti dati carte: Scryfall, EDHREC, Commander Spellbook (combo), Moxfield, MTGGoldfish.
+
+---
+
+## 8. Consulente Telegram (dal 2026-07-03)
+
+Questa repo alimenta anche il **consulente `/consulente` del bot BolasScryer** (EC2, solo
+admin, Claude Agent SDK con abbonamento Max): il server ha un clone in
+`/opt/pricebot/consulenza` aggiornato da un timer ogni 6 ore, e l'agente legge questo
+CLAUDE.md, le liste `decks/pol/*.txt` e le note `*_note.md` come contesto.
+
+**Divisione delle responsabilità (decisa da pol):**
+- **Questa repo (Consulenza-Mazzi)** = il "cervello" del consulente: contesto, regole,
+  liste, note, profili di simulazione. Le modifiche al comportamento consulenziale
+  (cosa sa, come giudica i mazzi) si fanno QUI.
+- **Repo BolasScryer-PriceBot** = comandi e funzionalità del bot: handler Telegram,
+  system prompt dell'agente (`consulente.py`), tool MCP (`scryfall_mcp.py`,
+  `torneo.py`), deploy. Le modifiche a comandi/tool si fanno LÀ.
+
+**Conseguenze operative:**
+1. **Il commit qui non basta per il bot: serve il PUSH su origin (MTGCCODE)** —
+   il clone su EC2 si aggiorna dal remoto (timer 00/06/12/18:15, o a mano con
+   `git -C /opt/pricebot/consulenza pull`). Ai checkpoint orari: commit+push.
+2. `profiles.json` committato = i dati che usa `/torneo` e il tool `simula_torneo`
+   sul server: rigenerarlo (build_profiles.py) quando le liste cambiano.
+3. Tutto ciò che si scrive in questo file e nelle note è **anche prompt-context del
+   consulente Telegram**: mantenerlo fattuale e aggiornato.
