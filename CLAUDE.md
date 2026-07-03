@@ -98,7 +98,7 @@ Mana Crypt, Jeweled Lotus, Dockside Extortionist, Nadu. **Mana Vault NON è band
 ## 3. I mazzi di pol — censimento `decks/pol/` (2026-07-01, verifica sui txt!)
 
 **10 mazzi REALI** (fisicamente montati, liste confermate da pol carta per carta contro la sua
-collezione) + **3 mazzi TEORICI con lista** (non ancora montati, verificati solo per legalità).
+collezione) + **4 mazzi TEORICI con lista** (non ancora montati, verificati solo per legalità).
 Tutti 100 carte incluso il comandante, salvo dove segnalato. GC contati sulla lista ufficiale
 53 carte (sezione 2), bracket e combo verificati su Scryfall.
 
@@ -125,6 +125,7 @@ Tutti 100 carte incluso il comandante, salvo dove segnalato. GC contati sulla li
 | `obeka` | Obeka, Splitter of Seconds | Grixis | drain (Vito/Aclazotz/Exquisite Blood+Sanguine Bond) + pacchetto controspell gratuiti/economici + sottotema Gates/Maze's End |
 | `ms_bumbleflower` | Ms. Bumbleflower | Bant | +1/+1 counters, stessa famiglia archetipica di Yuna (ora rimossa dalla repo, vedi nota pulizia) |
 | `serpent_society` | The Serpent Society | Golgari | deathtouch-aristocrats/edict, **B3 alto** (GC: Tergrid+Worldly Tutor+Mana Vault). **Montabile al 100% da collezione sciolta** (costruito 2026-07-02). Il comandante è un Grave Pact in command zone; Ophiomancer+sac outlet = edict/turno; Tergrid ruba i sacrifici. Nota: Dina contesa con l'upgrade sam_frodo. Sim: 19.7% ma il modello non vede il testo del comandante (sottostimato); debolezza reale: prot~1, fragile ai wrath |
+| `coulson` | Agent Phil Coulson | mono-W | **Hero tribal** (+1/+1 counter su ogni altro Hero), **B3** (GC: 1 solo, Smothering Tithe). Costruito 2026-07-03: 21/63 Hero mono-W già in collezione libera, 9 aggiunte a shopping economico (~75€ tot, dominato da Eiganjo 6,58€ — scartato apposta Cavern of Souls 39€, inutile in mono-colore). Contese: Adaptive Automaton e Coat of Arms possedute ma già impegnate altrove, da ricomprare. Nodo: Coulson attiva 1 counter/turno da solo, serve Metallic Mimic/Doctor Spectrum/Falcon Sam Wilson/Cap. Steve Rogers come motore secondario. **Variante `coulson_premium.txt`** (2026-07-04, proxy ammessi): 12 swap, GC=3 esatti (+Teferi's Protection +The One Ring), Cathars' Crusade/Ozolith/Elesh Norn come motori counter — vedi `coulson_note.md` |
 
 **Nota Sonic — manabase:** il vecchio audit raccomandava di tagliare le tapland per le duali
 originali (Tundra/Plateau/Volcanic Island). **È successo il contrario**: pol ha sostituito le
