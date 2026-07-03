@@ -1,0 +1,129 @@
+=== SAVE ===
+1x Teferi's Protection (c17) 8
+1x Eye of Nidhogg (fic) 44
+1x Spellbook Vendor (woe) 31
+1x Codsworth, Handy Helper (pip) 14
+1x Psemilla, Meletian Poet (j25) 31
+1x Godless Shrine (gpt) 157
+1x Rebuff the Wicked (plc) 12
+1x Hall of Heliod's Generosity (mh1) 241
+1x Defense of the Heart (ulg) 100
+1x Sphere Grid (fic) 70
+1x The Great Henge (eld) 161
+1x Professional Face-Breaker (snc) 116
+1x Treasure Vault (afr) 261
+1x Cavern-Hoard Dragon (ltc) 31
+1x Goldlust Triad (tdc) 34
+1x Generous Plunderer (big) 11
+1x The Reaver Cleaver (dmc) 8
+1x Rain of Riches (ncc) 50
+1x Hellkite Tyrant (gtc) 94
+
+=== TOMMASO ===
+1x Nykthos, Shrine to Nyx (ths) 223
+1x Serra Ascendant (ima) 31
+1x Avacyn, Angel of Hope (cmm) 14
+1x Flawless Maneuver (cmm) 24
+1x Fierce Guardianship (cmm) 94
+1x Urza's Saga (mh2) 259
+1x Samut, Voice of Dissent (sld) 1451
+1x Lotus Petal (mb2) 226
+1x Urborg, Tomb of Yawgmoth (tsr) 287
+1x Cabal Coffers (mh2) 301
+1x Sheoldred, the Apocalypse (dmu) 107
+1x The Meathook Massacre (inr) 122
+1x Twinflame Tyrant (fdn) 97
+1x Archangel of Thune (2xm) 5
+1x Crucible of Worlds (2x2) 303
+1x Black Market Connections (acr) 87
+1x Ocelot Pride (mh3) 38
+1x Vorinclex, Monstrous Raider (khm) 199
+1x Portal to Phyrexia (bro) 240
+1x Throne of Eldraine (woc) 28
+
+=== ROCCHI ===
+1x Otawara, Soaring City (neo) 414
+1x Roaming Throne (lci) 258
+1x Arid Mesa (mh2) 244
+1x Flooded Strand (mh3) 220
+1x Floodfarm Verge (dsk) 259
+1x Hallowed Fountain (rvr) 295
+1x Raugrin Triome (iko) 251
+1x Riverpyre Verge (dft) 260
+1x Sacred Foundry (rvr) 297
+1x Scalding Tarn (mh2) 254
+1x Sea of Clouds (clb) 360
+1x Spectator Seating (cmm) 427
+1x Steam Vents (rvr) 298
+1x Sunbillow Verge (dft) 264
+1x Training Center (cmm) 434
+1x Valakut Awakening (znr) 174
+
+=== POL ===
+1x Scapeshift (mor) 136
+1x Deadly Rollick (c20) 42
+2x Black Market Connections (clb) 620
+1x Sliver Hive (m15) 247
+1x Dictate of Erebos (jou) 65
+2x Heroic Intervention (aer) 109
+1x Surly Badgersaur (c20) 57
+1x Entomb (ody) 132
+1x Fable of the Mirror-Breaker // Reflection of Kiki-Jiki (neo) 141
+1x Beast Whisperer (grn) 123
+1x Jace's Archivist (m12) 59
+1x Warleader's Call (mkm) 242
+1x Savra, Queen of the Golgari (rav) 225
+1x Wound Reflection (shm) 81
+1x Thornbite Staff (mor) 145
+1x Nurturing Peatland (mh1) 243
+1x Song of the Dryads (c14) 47
+1x Esper Sentinel (mh2) 12
+1x Sword of Feast and Famine (mbs) 138
+1x The Meathook Massacre (mid) 112
+1x Etali, Primal Conqueror // Etali, Primal Sickness (mom) 137
+1x Grave Pact (sth) 60
+1x Craterhoof Behemoth (avr) 172
+1x Slip Out the Back (snc) 62
+1x Pitiless Plunderer (rix) 81
+1x Volcanic Island (leb) 287
+1x Sorin, Imperious Bloodlord (m20) 115
+1x Morophon, the Boundless (mh1) 1
+1x Apex Devastator (cmr) 217
+1x Elemental Bond (ori) 174
+1x Braids, Arisen Nightmare (dmu) 84
+1x Spirebluff Canal (kld) 249
+1x Basilisk Collar (wwk) 122
+1x Momentous Fall (roe) 197
+1x Temur Ascendancy (ktk) 207
+1x Blooming Marsh (kld) 243
+1x Grim Haruspex (ktk) 73
+1x Goblin Bombardment (tmp) 179
+1x Moraug, Fury of Akoum (znr) 150
+1x Gray Merchant of Asphodel (ths) 89
+1x Blood Artist (avr) 86
+1x Mana Echoes (ons) 218
+1x Exquisite Blood (avr) 102
+1x Roaming Throne (lci) 258
+1x Ugin, Eye of the Storms (tdm) 1
+1x Portal to Phyrexia (bro) 240
+1x Mycosynth Golem (5dn) 137
+1x Darksteel Forge (dst) 110
+1x Tezzeret, Cruel Captain (eoe) 2
+1x Urza's Workshop (brc) 28
+1x Sensei's Divining Top (chk) 268
+1x Ugin's Labyrinth (mh3) 233
+1x Unwinding Clock (nph) 164
+1x Rise of the Eldrazi (cmm) 716
+1x Homeward Path (cmd) 277
+1x Cybermen Squadron (who) 176
+1x Fomori Vault (big) 29
+1x Walking Ballista (aer) 181
+1x Planar Nexus (m3c) 80
+1x Eldrazi Confluence (m3c) 32
+1x Kozilek's Command (mh3) 11
+1x Cosmic Cube (msh) 245
+1x Panharmonicon (kld) 226
+1x Grinding Station (5dn) 127
+1x Kuldotha Forgemaster (som) 169
+4x Echoes of Eternity (mh3) 4
+4x Monument to Endurance (dft) 237
