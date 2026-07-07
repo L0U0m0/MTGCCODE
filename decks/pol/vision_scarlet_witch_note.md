@@ -45,11 +45,12 @@ upgrade netto di potenza restando a 3 GC.
 - **card advantage/loot/treasure**: Wheel of Fortune, Faithless Looting, Cathartic Reunion,
   Thrill of Possibility, Seize the Spoils, Big Score, Currency Converter, Crossover
   Collaboration, Reckless Ransacking, Blazing Crescendo, Wanda's Vision + cantrip (Crash
-  Through, Ancestral Anger, End-Blaze, Fiery Inscription, Idol of Oblivion, Goldvein Pick).
+  Through, Ancestral Anger, End-Blaze, Idol of Oblivion).
 - **3 copia-magie**: Reiterate, Twinning Staff, Return the Favor.
-- **11 interazione**: Lightning Bolt, Abrade, Magma Jet, Lightning Strike, Burst Lightning,
-  Cathartic Pyre, Electrostatic Bolt, Bolt Bend (redirect/protezione), + 3 sweeper
-  (Brotherhood's End, Chain Reaction, Blasphemous Act).
+- **13 interazione/protezione**: Lightning Bolt, Abrade, Magma Jet, Lightning Strike, Burst
+  Lightning, Cathartic Pyre, Electrostatic Bolt, **Chaos Warp** (risposta a non-artefatti),
+  Bolt Bend + **Deflecting Swat** (protezione/redirect), + 3 sweeper (Brotherhood's End,
+  Chain Reaction, Blasphemous Act).
 - **6 finisher/mana sink**: Grapeshot, Crackle with Power, Electrodominance, Haze of Rage,
   Archaic's Agony, Embercleave (voltron sul comandante che cresce a ogni magia).
 - **Sundial of the Infinite**: utility (fissa copie temporanee / salta upkeep sfavorevoli).
@@ -61,8 +62,8 @@ comandante (+1/+1 e {R}) e pinga il tavolo via Guttersnipe/Firebrand/Impact Trem
 a raddoppiare. Refill con Wheel/One Ring. Chiudi con: (a) comandante gigante volante +
 Embercleave, o (b) un grosso turno di storm → Grapeshot / Crackle with Power / Electrodominance.
 Nessun loop: è velocità + inevitabilità, non un infinito. **Debolezza**: fragile ai wrath (dipende
-da creature-payoff) e alla poca protezione — Bolt Bend è l'unica risposta, valuta di doppiare
-Deflecting Swat dal Deadpool.
+da creature-payoff); mitigata ora da Bolt Bend + Deflecting Swat (redirect/protezione) e Chaos
+Warp come risposta jolly.
 
 ## Contese: "Sad Men Parade" = il Deadpool (chiarito da pol, 2026-07-07)
 
@@ -78,15 +79,10 @@ più). Montabile comunque senza toccare Deadpool.
 ## Carte dal Deadpool — stato
 
 **Già DENTRO via proxy di pol** (non toccano il Deadpool fisico): **The One Ring**, **Ancient
-Tomb**, **Wheel of Fortune**. Sono le 3 carte-chiave contese; con le proxy il problema di
-contesa è risolto per queste.
+Tomb**, **Wheel of Fortune**, **Chaos Warp**, **Deflecting Swat** (aggiunte 2026-07-07 al posto
+di Goldvein Pick + Fiery Inscription). Il problema di contesa è risolto via proxy per tutte.
 
 **Ancora da valutare (contese, restano nel Deadpool salvo doppio/proxy):**
-- **Chaos Warp** *(priorità)* — unica risposta rossa a permanenti non-artefatto (incantesimi,
-  hexproof). Il mono-R ne ha disperato bisogno; economica, conviene doppiarla o proxarla.
-  Candidata a entrare al posto di un cantrip debole (Crash Through / Ancestral Anger).
-- **Deflecting Swat** — protezione premium (l'unica altra oltre Bolt Bend). Copre la debolezza
-  ai wrath/rimozione mirata. Costosa: doppio o proxy.
 - **Purphoros / Terror of the Peaks** — payoff da ETB; senza l'infinito ora valgono meno (niente
   loop), ma restano buoni con Wheel/token. Opzionali.
 - **Reverberate** — 4ª copia-magia, ridondanza. **Vandalblast** — anti-artefatti one-sided.
@@ -118,7 +114,6 @@ Ignus, o B3 fair togliendo Ignus + Underworld Breach).
 
 1. **Bracket deciso: B3 spinto** (2026-07-07). GC = 3 (Mana Vault, Ancient Tomb, The One Ring),
    nessun infinito. Le 3 carte-chiave contese sono coperte dalle **proxy di pol**.
-2. **Chaos Warp**: unica risposta rossa a permanenti non-artefatto — decidere se doppiarla/proxarla
-   ed entrarla al posto di un cantrip debole. Idem **Deflecting Swat** per la protezione.
+2. Chaos Warp + Deflecting Swat aggiunte via proxy (fuori Goldvein Pick + Fiery Inscription).
 3. Le proxy stanno in `vision_scarlet_witch.txt`; se un domani sostituisci una proxy con la carta
    fisica presa dal Deadpool, indeboliresti un mazzo reale → registralo in `MODIFICHE_FISICHE.md`.
