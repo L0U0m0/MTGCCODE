@@ -32,17 +32,17 @@
 1 Thrill of Possibility
 1 Seize the Spoils
 1 Big Score
-1 Currency Converter
+1 Red Elemental Blast
 1 Conspiracy Theorist
-1 Idol of Oblivion
+1 Defense Grid
 1 Crossover Collaboration
 1 Reckless Ransacking
-1 Blazing Crescendo
+1 Pyroblast
 1 Chaos Warp
-1 Wanda's Vision
+1 Commander's Plate
 1 Deflecting Swat
-1 Crash Through
-1 Ancestral Anger
+1 Lightning Greaves
+1 Mithril Coat
 1 End-Blaze Epiphany
 1 Reiterate
 1 Twinning Staff

@@ -43,14 +43,16 @@ upgrade netto di potenza restando a 3 GC.
 - **7 creature/valore secondarie**: Heartfire Immolator, Firespitter Whelp, Speed Young
   Avenger, Vivi's Persistence, Ashling Flame Dancer, Glint-Horn Buccaneer, Conspiracy Theorist.
 - **card advantage/loot/treasure**: Wheel of Fortune, Faithless Looting, Cathartic Reunion,
-  Thrill of Possibility, Seize the Spoils, Big Score, Currency Converter, Crossover
-  Collaboration, Reckless Ransacking, Blazing Crescendo, Wanda's Vision + cantrip (Crash
-  Through, Ancestral Anger, End-Blaze, Idol of Oblivion).
+  Thrill of Possibility, Seize the Spoils, Big Score, Crossover Collaboration, Reckless
+  Ransacking + cantrip (End-Blaze Epiphany).
 - **3 copia-magie**: Reiterate, Twinning Staff, Return the Favor.
-- **13 interazione/protezione**: Lightning Bolt, Abrade, Magma Jet, Lightning Strike, Burst
-  Lightning, Cathartic Pyre, Electrostatic Bolt, **Chaos Warp** (risposta a non-artefatti),
-  Bolt Bend + **Deflecting Swat** (protezione/redirect), + 3 sweeper (Brotherhood's End,
-  Chain Reaction, Blasphemous Act).
+- **interazione**: Lightning Bolt, Abrade, Magma Jet, Lightning Strike, Burst Lightning,
+  Cathartic Pyre, Electrostatic Bolt, **Chaos Warp** (risposta a non-artefatti), + 3 sweeper
+  (Brotherhood's End, Chain Reaction, Blasphemous Act).
+- **protezione (pacchetto aggiunto 2026-07-08)**: Lightning Greaves + Commander's Plate
+  (protezione da 4 colori in mono-R) + Mithril Coat (indistruttibile flash, save reattivo) per
+  il comandante-motore; Defense Grid + Red Elemental Blast + Pyroblast + Bolt Bend + Deflecting
+  Swat + Return the Favor per il turno-storm/redirect.
 - **6 finisher/mana sink**: Grapeshot, Crackle with Power, Electrodominance, Haze of Rage,
   Archaic's Agony, Embercleave (voltron sul comandante che cresce a ogni magia).
 - **Sundial of the Infinite**: utility (fissa copie temporanee / salta upkeep sfavorevoli).
@@ -61,9 +63,20 @@ Cala presto rocce/comandante, incatena cantrip e burn a basso costo: ogni magia 
 comandante (+1/+1 e {R}) e pinga il tavolo via Guttersnipe/Firebrand/Impact Tremors, con Torbran
 a raddoppiare. Refill con Wheel/One Ring. Chiudi con: (a) comandante gigante volante +
 Embercleave, o (b) un grosso turno di storm → Grapeshot / Crackle with Power / Electrodominance.
-Nessun loop: è velocità + inevitabilità, non un infinito. **Debolezza**: fragile ai wrath (dipende
-da creature-payoff); mitigata ora da Bolt Bend + Deflecting Swat (redirect/protezione) e Chaos
-Warp come risposta jolly.
+Nessun loop: è velocità + inevitabilità, non un infinito. **Debolezza storica**: fragile ai wrath
+(dipende da creature-payoff) — mitigata dal pacchetto protezione 2026-07-08 (Commander's Plate/
+Greaves/Mithril Coat sul comandante + Defense Grid/REB/Pyroblast sul turno). Board-wide anti-wrath
+resta scoperto: **Eldrazi Monument escluso da pol** (impegnato in "La cosa verde").
+
+## Simulazione (sim_pods POD B, 40k partite, roster 135 mazzi)
+
+- Pre-protezione: **14,6%**, 121°/135 pool, 20°/21 pol (prot=1).
+- Post-protezione: **19,6%**, 97°/135 pool, 16°/21 pol (prot=4). +5 punti, +24 posizioni.
+- Ora è in mezzo alla fascia dei mazzi fair (Edgar 20%, Coulson 20%, first_sliver 18,7%,
+  mimeoplasm 15,9%), non più l'outlier in fondo.
+- **Limite noto**: il modello NON legge il comandante (qui È il motore) né rappresenta il
+  turno-storm → cn=0. Il numero reale è più alto; conta il segnale RELATIVO (il fix protezione
+  ha spostato il mazzo su di 4 posizioni).
 
 ## Contese: "Sad Men Parade" = il Deadpool (chiarito da pol, 2026-07-07)
 
