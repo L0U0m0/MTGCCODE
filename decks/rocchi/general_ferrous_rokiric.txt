@@ -7,7 +7,6 @@
 1 Aurelia's Fury
 1 Aurelia, the Warleader
 1 Balefire Liege
-1 Banon, the Returners' Leader
 1 Battlefield Forge
 1 Blade Historian
 1 Boros Charm
@@ -17,6 +16,7 @@
 1 Chance for Glory
 1 Clifftop Retreat
 1 Command Tower
+1 Daredevil, Man Without Fear
 1 Deflecting Palm
 1 Duergar Hedge-Mage
 1 Exotic Orchard

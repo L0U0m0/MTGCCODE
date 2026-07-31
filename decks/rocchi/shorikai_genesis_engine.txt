@@ -1,0 +1,87 @@
+1 Shorikai, Genesis Engine
+1 Academy Ruins
+1 Adagia, Windswept Bastion
+1 Adarkar Wastes
+1 Aerial Surveyor
+1 Ancient Den
+1 Arcane Denial
+1 Arcane Signet
+1 Archway of Innovation
+1 Azorius Chancery
+1 Azorius Signet
+1 Buried Ruin
+1 Command Tower
+1 Cosima, God of the Voyage // The Omenkeel
+1 Counterspell
+1 Cyberdrive Awakener
+1 Cyclonic Rift
+1 Dance of the Manse
+1 Deserted Beach
+1 Desynchronization
+1 Dig Through Time
+1 Dispatch
+1 Emry, Lurker of the Loch
+1 Etherium Sculptor
+1 Exotic Orchard
+1 Fell the Mighty
+1 Fellwar Stone
+1 Flooded Strand
+1 Floodfarm Verge
+1 Forensic Gadgeteer
+1 Foundry Inspector
+1 Generous Gift
+1 Glacial Fortress
+1 Hallowed Fountain
+1 Imposter Mech
+1 Into the Flood Maw
+8 Island
+1 Kappa Cannoneer
+1 Karn, Legacy Reforged
+1 Katsumasa, the Animator
+1 Kotori, Pilot Prodigy
+1 Liquimetal Torque
+1 Mechtitan Core
+1 Mighty Servant of Leuk-o
+1 Mirage Mirror
+1 Mobilizer Mech
+1 Monument to Endurance
+1 Mystic Confluence
+1 Otawara, Soaring City
+1 Padeem, Consul of Innovation
+1 Palladium Myr
+1 Peacewalker Colossus
+1 Phyrexian Metamorph
+7 Plains
+1 Prairie Stream
+1 Reality Heist
+1 Reaver Titan
+1 Reliquary Tower
+1 Sai, Master Thopterist
+1 Scavenger Grounds
+1 Sculpting Steel
+1 Sea of Clouds
+1 Seat of the Synod
+1 Simulacrum Synthesizer
+1 Sink into Stupor // Soporific Springs
+1 Skullclamp
+1 Skysovereign, Consul Flagship
+1 Solemn Simulacrum
+1 Spell Pierce
+1 Spire of Industry
+1 Spirit Water Revival
+1 Supreme Will
+1 Surgehacker Mech
+1 Swan Song
+1 Talisman of Progress
+1 Tezzeret the Seeker
+1 Thopter Fabricator
+1 Thought Monitor
+1 Thought Vessel
+1 Thoughtcast
+1 Unwinding Clock
+1 Urza, Lord High Artificer
+1 Uthros Research Craft
+1 Uthros, Titanic Godcore
+1 Voyager Quickwelder
+1 Weatherlight
+1 Worn Powerstone

@@ -29,7 +29,7 @@
 1 Final Showdown
 1 Flawless Maneuver
 1 Flowering of the White Tree
-7 Forest
+6 Forest
 1 Gisela, Blade of Goldnight
 1 Glissa Sunslayer
 1 Godless Shrine
@@ -87,5 +87,6 @@
 1 Vincent Valentine // Galian Beast
 1 Vraska Joins Up
 1 Vraska, the Silencer
+1 Wooded Foothills
 1 Yoshimaru, Ever Faithful
 1 Ziatora's Proving Ground

@@ -42,6 +42,7 @@
 1 Herald of Amity
 1 Inkshield
 1 Isolated Chapel
+1 Journey to Nowhere
 1 Killian, Ink Duelist
 1 Kor Spiritdancer
 1 Land Tax
@@ -50,6 +51,7 @@
 1 Mangara, the Diplomat
 1 Martial Impetus
 1 Mesa Enchantress
+1 No Mercy
 1 Optimistic Scavenger
 1 Parasitic Impetus
 1 Path of Ancestry
@@ -73,11 +75,11 @@
 1 Story Circle
 1 Study Hall
 1 Sunlit Marsh
+1 Super State
 8 Swamp
 1 Talisman of Hierarchy
 1 Temple of Silence
 1 Terramorphic Expanse
-1 Tinybones Joins Up
 1 Transcendent Envoy
 1 Turbulent Moor
 1 Umbral Expanse

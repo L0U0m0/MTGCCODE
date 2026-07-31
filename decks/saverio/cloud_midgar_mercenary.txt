@@ -58,8 +58,8 @@
 1 Super-Soldier Serum
 1 Surge of Salvation
 1 Swiftfoot Boots
-1 Sword of the Animist
 1 Sword of Vengeance
+1 Sword of the Animist
 1 Teshar, Ancestor's Apostle
 1 Ultima Weapon
 1 Weapons Vendor

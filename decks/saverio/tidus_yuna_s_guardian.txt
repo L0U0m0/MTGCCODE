@@ -5,23 +5,23 @@
 1 Auron, Venerated Guardian
 1 Birds of Paradise
 1 Botanical Brawler
+1 Branching Evolution
 1 Bred for the Hunt
+1 Bristly Bill, Spine Sower
 1 Canopy Vista
-1 Chasm Skulker
 1 Chocobo Knights
-1 Chromatic Lantern
 1 Command Tower
 1 Damning Verdict
 1 Destroy Evil
 1 Dovin's Veto
+1 Dreamtide Whale
 1 Duskshell Crawler
+1 Emil, Vastlands Roamer
 1 Envoy of the Ancestors
-1 Esper Sentinel
 1 Everflowing Chalice
 1 Evolving Wilds
 1 Exotic Orchard
 1 Faithful Watchdog
-1 Farewell
 1 Farseek
 1 Flooded Grove
 1 Forest
@@ -37,6 +37,8 @@
 1 Gyre Sage
 1 Hallowed Fountain
 1 Hardened Scales
+1 Herald of Secret Streams
+1 Heroic Intervention
 1 Hinterland Harbor
 1 Incubation Druid
 1 Inexorable Tide
@@ -46,13 +48,13 @@
 1 Island
 1 Island
 1 Kami of Whispered Hopes
-1 Kappa Cannoneer
 1 Kimahri, Valiant Guardian
+1 Kutzil, Malamet Exemplar
 1 Lulu, Stern Guardian
-1 Luminous Broodmoth
 1 Maester Seymour
 1 Nesting Grounds
 1 O'aka, Traveling Merchant
+1 Ouroboroid
 1 Overflowing Basin
 1 Path of Ancestry
 1 Path to Exile
@@ -69,7 +71,6 @@
 1 Rhystic Study
 1 Rikku, Resourceful Guardian
 1 Seaside Citadel
-1 Serah Farron // Crystallized Serah
 1 Shelinda, Yevon Acolyte
 1 Sigarda, Font of Blessings
 1 Sin, Unending Cataclysm
@@ -78,12 +79,10 @@
 1 Sphere Grid
 1 Strixhaven Stadium
 1 Summon: Ixion
-1 Summon: Magus Sisters
 1 Summon: Valefor
 1 Summon: Yojimbo
 1 Sungrass Prairie
 1 Sunpetal Grove
-1 Sunscorch Regent
 1 Tekuthal, Inquiry Dominus
 1 Temple of Plenty
 1 Temple of the False God
@@ -94,7 +93,8 @@
 1 Tribute to the World Tree
 1 Tromell, Seymour's Butler
 1 Vineglimmer Snarl
+1 Vorinclex, Monstrous Raider
 1 Wakka, Devoted Guardian
 1 Walking Ballista
+1 Wildgrowth Archaic
 1 Yuna, Grand Summoner
-1 Zanarkand, Ancient Metropolis // Lasting Fayth

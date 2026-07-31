@@ -1,0 +1,117 @@
+1 Sokka, Tenacious Tactician
+1 Aang, Air Nomad
+1 Aang, Airbending Master
+1 Aang, Swift Savior // Aang and La, Ocean's Fury
+1 Abandon Attachments
+1 Abandoned Air Temple
+1 Accumulate Wisdom
+1 Airbender's Reversal
+1 Allied Teamwork
+1 Anointed Procession
+1 Appa, Steadfast Guardian
+1 Appa, the Vigilant
+1 Arcane Signet
+1 Austere Command
+1 Avatar's Wrath
+1 Battle Hymn
+1 Bender's Waterskin
+1 Boros Charm
+1 Captain's Claws
+1 Cascade Bluffs
+1 Clifftop Retreat
+1 Command Tower
+1 Consider
+1 Cori-Steel Cutter
+1 Counterspell
+1 Deserted Beach
+1 Dovin's Veto
+1 Elspeth, Storm Slayer
+1 Energybending
+1 Enter the Avatar State
+1 Exotic Orchard
+1 Farewell
+1 Fellwar Stone
+1 Ferrous Lake
+1 Fire Nation Palace
+1 Flawless Maneuver
+1 Floodfarm Verge
+1 Frostcliff Siege
+1 Glacial Fortress
+1 Gran-Gran
+1 Great Train Heist
+1 Hook Swords
+1 Idol of Oblivion
+1 Impact Tremors
+1 Iroh, Dragon of the West
+3 Island
+1 It'll Quench Ya!
+1 Jeskai Ascendancy
+1 Jet, Rebel Leader
+1 Jwari Shapeshifter
+1 Katara, Water Tribe's Hope
+1 Katara, Waterbending Master
+1 Kindred Discovery
+1 Kyoshi Battle Fan
+3 Mountain
+1 Mystic Gate
+1 Nimbus Maze
+1 Octopus Form
+1 Ondu Cleric
+1 Opt
+1 Overwhelming Victory
+1 Patchwork Banner
+1 Path to Exile
+1 Pearl Medallion
+5 Plains
+1 Plaza of Heroes
+1 Radiant Summit
+1 Reckless Blaze
+1 Redirect Lightning
+1 Rending Volley
+1 Riverpyre Verge
+1 Rugged Prairie
+1 Sacred Foundry
+1 Sea of Clouds
+1 Searing Blood
+1 Shared Animosity
+1 Skullclamp
+1 Smellerbee, Rebel Fighter
+1 Snap
+1 Sokka and Suki
+1 Sokka's Charge
+1 Sokka, Bold Boomeranger
+1 Sokka, Swordmaster
+1 Sol Ring
+1 South Pole Voyager
+1 Spectator Seating
+1 Sram, Senior Edificer
+1 Steam Vents
+1 Stormcarved Coast
+1 Suki, Courageous Rescuer
+1 Sulfur Falls
+1 Sunbillow Verge
+1 Sundown Pass
+1 Sunscorched Divide
+1 Swiftfoot Boots
+1 Sword of the Animist
+1 Swords to Plowshares
+1 Talisman of Progress
+1 Teachings of the Archaics
+1 The Last Agni Kai
+1 Think Twice
+1 Three Tree City
+1 Training Center
+1 Trusty Boomerang
+1 Twincast
+1 Ty Lee, Chi Blocker
+1 United Front
+1 Untimely Malfunction
+1 Warleader's Call
+1 Warlord's Fury
+1 Wartime Protestors
+1 Water Whip
+1 Waterbender's Restoration
+1 Whirlwind of Thought
+1 Yip Yip!
+1 Yue, the Moon Spirit
+1 Zuko, Firebending Master

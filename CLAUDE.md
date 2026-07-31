@@ -2,13 +2,17 @@
 
 Contesto per qualunque istanza di Claude (chat o Claude Code) che lavora su questo
 progetto. Aggiornato: 2026-07-01 (censimento mazzi di **pol**, verificato carta per
-carta via Scryfall sui file reali della repo). **Le liste qui sotto sono fotografie:
+carta via Scryfall sui file reali della repo); **2026-07-31 aggiunta sezione 3bis**
+(import automatico Archidekt per rocchi/saverio/sbernuz/sbaragli, non verificato a
+mano — vedi sezione 3bis per il dettaglio). **Le liste qui sotto sono fotografie:
 i mazzi cambiano, verifica sempre sui txt aggiornati nella repo, non su questo file.**
 
 **Struttura repo: ora multi-giocatore.** I mazzi stanno in `decks/<giocatore>/`:
-`casagrande/` (37), `rocchi/` (45), `tommaso/` (20), `pol/` (13), `saverio/` (10),
-`montauti/` (7), `g_prete/` (5), `sbernuz/` (3). La sezione 3 sotto è il censimento
-del solo **pol** (ex-tag `jimmy`). Gli altri folder NON sono ancora stati auditati.
+`casagrande/` (37), `rocchi/` (10), `tommaso/` (20), `pol/` (21), `saverio/` (8),
+`montauti/` (7), `g_prete/` (5), `sbernuz/` (3), `sbaragli/` (26, nuovo). La sezione 3
+sotto è il censimento carta-per-carta del solo **pol** (ex-tag `jimmy`); la sezione
+3bis è l'import grezzo Archidekt di rocchi/saverio/sbernuz/sbaragli (dati letti da
+Archidekt, non verificati). casagrande/tommaso/montauti/g_prete restano NON auditati.
 
 **Pulizia 2026-07-01:** i vecchi mazzi "teorici" senza lista fisica (inalla, yuna,
 norin, noctis, azlask, azula, teval, yshtola_staxgoad, first_sliver_slayer, zevlor
@@ -154,6 +158,95 @@ possono più fetcharle — downgrade di manabase, probabilmente per motivi di co
 - **Y'shtola**: Bloodchief Ascension + Mindcrank (infinito), **confermato presente**; triangolo Papalymo→Emet-Selch→Hope Estheim. Delney raddoppia il suo trigger (forza 2).
 - **Edgar Markov**: **nessuna combo** nel fisico (Exquisite Blood/Sanguine Bond/Vito assenti) — il mazzo è stato derated volontariamente da B4 a B3.
 - **Mimeoplasm**: nessun infinito; wincon via infect (11 creature infect in lista) copiate/ingrandite da Mimeoplasm. Lord of Extinction NON presente, quindi la ruling CDA-dal-cimitero (sezione 2) non si applica a questa build specifica.
+
+---
+
+## 3bis. Mazzi rocchi / saverio / sbernuz / sbaragli — import automatico Archidekt (2026-07-31)
+
+A differenza della sezione 3 (pol), questi 4 giocatori **non sono stati auditati carta per
+carta**: i dati (comandante, GC, bracket) sono presi così come li espone l'**API pubblica
+Archidekt** (`archidekt.com/api/decks/...`, nessuna autenticazione), via lo script
+`import_archidekt.py` (ripetibile: rilancialo per aggiornare dopo modifiche su Archidekt).
+**GC e bracket qui sotto sono quelli calcolati/taggati da Archidekt stesso — non verificati
+a mano contro la lista ufficiale 53 carte (sezione 2) come invece fatto per pol.** Trattali
+come indicativi finché non si fa un audit come quello di pol.
+
+Account Archidekt: rocchi=`ODN_RooK`, saverio=`CancaroMan`, sbernuz=`Sbernuz`, sbaragli=`Sbara`.
+
+**rocchi**: 30 mazzi nella cartella Archidekt "Brew Only" (napkin, mai montati fisicamente)
+sono stati **esclusi di proposito** dall'import — restano solo i probabili mazzi reali
+(cartella "Active Dekcs" + root + "Pauper Commander"). Per saverio/sbernuz/sbaragli non
+c'è alcun segnale cartella per distinguere reale/teorico: importati tutti, stato **non
+classificato**. **sbaragli è un giocatore nuovo**, aggiunto oggi da questo import (prima non
+era in roster); 6 suoi mazzi Archidekt sono stati saltati (nessun comandante rilevabile,
+presumibilmente bozze vuote).
+
+### rocchi
+
+| File | Nome su Archidekt | Carte | GC (Archidekt) | Bracket (Archidekt) | Cartella |
+|---|---|--:|--:|---|---|
+| `anikthea_hand_of_erebos` | Blue Mind | 95 | 0 | — | Home/Active Dekcs |
+| `ardbert_warrior_of_darkness` | One | 86 | 0 | 2 | Home/Active Dekcs |
+| `caesar_legion_s_emperor` | Of Wolf and Men | 97 | 0 | — | Home |
+| `gandalf_party_guest` | Starstruck | 95 | 0 | — | Home/Active Dekcs |
+| `general_ferrous_rokiric` | Endorphin Machine | 86 | 0 | 2 | Home/Active Dekcs |
+| `jin_sakai_ghost_of_tsushima` | Kizuna no Kiseki | 94 | 0 | 2 | Home/Active Dekcs |
+| `rilsa_rael_kingpin` | Kingpin | 75 | 0 | — | Home/Pauper Commander |
+| `rose_tyler` | Another One Bites the Dust | 96 | 3 | — | Home/Active Dekcs |
+| `saskia_the_unyielding` | Breaking The Habit | 92 | 0 | 3 | Home/Active Dekcs |
+| `shorikai_genesis_engine` | Abiura di Me | 87 | 1 | — | Home/Active Dekcs |
+
+### saverio
+
+| File | Nome su Archidekt | Carte | GC (Archidekt) | Bracket (Archidekt) | Cartella |
+|---|---|--:|--:|---|---|
+| `atraxa_praetors_voice` | Level up With Atraxa | 91 | 0 | — | Home |
+| `celes_rune_knight` | Grave Digging with Celes | 98 | 1 | 2 | Home |
+| `cloud_midgar_mercenary` | Cloud | 67 | 0 | 2 | Home |
+| `killian_decisive_mentor` | Silverquill Influence - Secrets of Strixhaven | 87 | 1 | 2 | Home |
+| `knuckles_the_echidna` | Treasure Hoarding With Knuckles The Echidna | 71 | 0 | 2 | Home |
+| `quintorius_history_chaser` | quintorius elefantone | 84 | 0 | — | Home |
+| `tidus_yuna_s_guardian` | Live and Let Live! | 100 | 1 | 3 | Home |
+| `ureni_of_the_unwritten` | temur | 87 | 0 | — | Home |
+
+### sbernuz
+
+| File | Nome su Archidekt | Carte | GC (Archidekt) | Bracket (Archidekt) | Cartella |
+|---|---|--:|--:|---|---|
+| `arna_kenner_d_skycaptain` | We got Weapons | 85 | 0 | — | Home |
+| `dion_bahamut_s_dominant_bahamut_warden_of_light` | Knights, knights everywhere | 80 | 0 | — | Home |
+| `yurlok_of_scorch_thrash` | Yurlok b3 | 90 | 2 | — | Home |
+
+### sbaragli
+
+| File | Nome su Archidekt | Carte | GC (Archidekt) | Bracket (Archidekt) | Cartella |
+|---|---|--:|--:|---|---|
+| `appa_steadfast_guardian` | Mono Bianco Avatar | 89 | 2 | — | Home |
+| `ardbert_warrior_of_darkness` | Legendary | 74 | 1 | — | Home/Mazzi Commander |
+| `bria_riptide_rogue` | Lontrinecarine | 83 | 0 | — | Home/Mazzi Commander |
+| `brigid_clachan_s_heart_brigid_doun_s_mind` | KithkinKithkinKithkin | 83 | 0 | — | Home/Mazzi Commander |
+| `choco_seeker_of_paradise` | Uccelliamo | 90 | 0 | — | Home/Mazzi Commander |
+| `doran_besieged_by_time` | Rattoni grossi grossi | 55 | 0 | — | Home/Mazzi Commander |
+| `fire_lord_zuko` | Zuko 2.0 | 102 | 0 | — | Home/Mazzi Commander |
+| `fire_lord_zuko_2` | Zuko | 112 | 0 | — | Home/Mazzi Commander |
+| `general_kreat_the_boltbringer` | Cheapest Tribal Goblin | 66 | 0 | — | Home |
+| `general_kreat_the_boltbringer_2` | Tribal Goblin | 66 | 0 | — | Home/Mazzi Commander |
+| `grist_the_hunger_tide` | Insettoidi | 86 | 0 | — | Home/Mazzi Commander |
+| `gylwain_casting_director` | Si va a teatro! | 105 | 0 | — | Home/Mazzi Commander |
+| `inspirit_flagship_vessel` | Astrodeck | 98 | 3 | — | Home |
+| `kibo_uktabi_prince` | Monke | 83 | 0 | — | Home/Mazzi Commander |
+| `lorehold_the_historian` | Boros Spells | 121 | 0 | — | Home |
+| `momo_friendly_flier` | Momo | 74 | 0 | — | Home |
+| `raiyuu_storm_s_edge` | Spadine | 74 | 0 | — | Home |
+| `raiyuu_storm_s_edge_2` | Spadone | 70 | 0 | — | Home/Mazzi Commander |
+| `sokka_and_suki` | Mata-hi e As'wad | 90 | 1 | — | Home/Mazzi Commander |
+| `sokka_tenacious_tactician` | Sokkiamo insieme? | 93 | 1 | — | Home/Mazzi Commander |
+| `sokka_tenacious_tactician_2` | Sokka | 117 | 1 | — | Home/Mazzi Commander |
+| `sygg_wanderwine_wisdom_sygg_wanderbrine_shield` | Lorwyn | 16 | 1 | — | Home/Mazzi Commander |
+| `toph_earthbending_master` | Tophiamoci! | 106 | 3 | 3 | Home |
+| `ureni_of_the_unwritten` | New Temur | 91 | 2 | — | Home |
+| `ureni_of_the_unwritten_2` | Temur | 89 | 0 | — | Home |
+| `zedruu_the_greathearted` | Zedruu | 85 | 0 | — | Home/Mazzi Commander |
 
 ---
 

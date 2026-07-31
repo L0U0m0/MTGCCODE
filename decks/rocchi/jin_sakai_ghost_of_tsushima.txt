@@ -1,6 +1,6 @@
 1 Jin Sakai, Ghost of Tsushima
+1 Aetherize
 1 An Offer You Can't Refuse
-1 Anguished Unmaking
 1 Arcane Denial
 1 Arcane Sanctum
 1 Arcane Signet
@@ -15,9 +15,8 @@
 1 Dawn's Truce
 1 Delney, Streetwise Lookout
 1 Deserted Beach
-1 Dour Port-Mage
-1 Dovin's Veto
 1 Drowned Catacomb
+1 Eagle Vision
 1 Eiganjo Castle
 1 Eiganjo, Seat of the Empire
 1 Exotic Orchard
@@ -25,6 +24,7 @@
 1 Fell the Profane // Fell Mire
 1 Floodfarm Verge
 1 Force of Despair
+1 Glasspool Mimic // Glasspool Shore
 1 Gloomlake Verge
 1 Godless Shrine
 1 Grim Hireling
@@ -37,20 +37,20 @@
 1 Kaito Shizuki
 1 Kaito, Bane of Nightmares
 1 Karai, Future of the Foot
-1 Kindred Discovery
-1 Leonardo, Sewer Samurai
-1 Lethal Scheme
 1 Lightning Greaves
 1 Lost Jitte
+1 Mind Stone
+1 Mist-Syndicate Naga
 1 Mistblade Shinobi
 1 Moon-Circuit Hacker
 1 Moonsnare Specialist
 1 Nashi, Moon Sage's Scion
-1 Ninja of the Deep Hours
+1 Negate
 1 Ninja Teen
+1 Ninja of the Deep Hours
 1 Ninja's Blades
 1 Omen Hawker
-1 Open the Armory
+1 Ornithopter of Paradise
 1 Orochi Soul-Reaver
 1 Orzhov Basilica
 1 Otawara, Soaring City
@@ -71,10 +71,9 @@
 1 Sink into Stupor // Soporific Springs
 1 Splinter's Technique
 1 Splinter, Radical Rat
-1 Stroke of Midnight
+1 Steelshaper's Gift
 1 Sunken Hollow
 1 Super Shredder
-1 Supreme Verdict
 3 Swamp
 1 Swords to Plowshares
 1 Sygg, Wanderwine Wisdom // Sygg, Wanderbrine Shield
@@ -83,6 +82,7 @@
 1 Talisman of Hierarchy
 1 Talisman of Progress
 1 The Key to the Vault
+1 Thought Vessel
 1 Thousand-Faced Shadow
 1 Toxic Deluge
 1 Turncoat Kunoichi
