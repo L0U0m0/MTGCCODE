@@ -49,9 +49,35 @@ sono ora impegnate in `vision_scarlet_witch` e `muddle`. Se le vuoi qui, va tolt
 ⚠️ **Witty Roastmaster non è più libera** (l'unica copia è finita in `vision_scarlet_witch`) —
 torna shopping, non upgrade gratuito.
 
-⚠️ **Damnation contesa con Yshtola**: 1 sola copia posseduta, richiesta sia da `deadpool.txt`
-che da `yshtola.txt`. Decisione da prendere: chi la tiene fisicamente, l'altro mazzo prende un
-wrath alternativo o un proxy.
+## Contese reali — verifica 2026-07-31 su export + decks/pol/*.txt
+
+Ogni carta già presente in `deadpool.txt` incrociata con la domanda degli **altri 9 mazzi
+REALI** (sezione 3 CLAUDE.md) sulla stessa collezione. **11 carte** risultano con copie
+possedute insufficienti a coprire tutti i mazzi reali che le vogliono contemporaneamente —
+prima di questa verifica solo Damnation era documentata, le altre 10 sono nuove:
+
+| Carta | Possedute | Richieste (da reali) | Contendenti |
+|---|--:|--:|---|
+| Badlands | 2 | 3 | edgar_markov, first_sliver |
+| Black Market Connections | 4 | 5 | edgar_markov, yshtola, sam_frodo, vincent |
+| Blood Crypt | 2 | 3 | edgar_markov, first_sliver |
+| Bloodstained Mire | 3 | 4 | edgar_markov, first_sliver, vincent |
+| Damnation | 1 | 2 | yshtola |
+| Idol of Oblivion | 2 | 3 | edgar_markov, sam_frodo |
+| Malakir Rebirth // Malakir Mire | 1 | 2 | vincent |
+| Mana Confluence | 1 | 3 | edgar_markov, yshtola |
+| Nykthos, Shrine to Nyx | 1 | 3 | toph, vincent |
+| Raucous Theater | 1 | 2 | edgar_markov |
+| **The One Ring** | 1 | 3 | toph, yshtola |
+
+⚠️ **The One Ring è uno dei 3 GC dichiarati di deadpool** (vedi intestazione) ed è il conflitto
+più grave: 3 mazzi reali lo vogliono, 1 sola copia posseduta. Non è un dettaglio, va deciso.
+
+A rischio aggiuntivo se `vision_scarlet_witch` risulta effettivamente reale (non ancora
+classificato in CLAUDE.md §3): **Ancient Tomb** (l'altro GC di deadpool, possedute=1, reali=1
+già al limite) e **Impact Tremors** (possedute=2, reali=2 già al limite).
+
+Nessuna decisione presa qui su chi tiene cosa — sono fotografie di conflitto, non priorità.
 
 ## Shopping fuori collezione (Cardmarket, ricontrollato 2026-07-31)
 | € | Carta | Ruolo |
@@ -62,7 +88,7 @@ wrath alternativo o un proxy.
 | 6,05 | Warleader's Call | Tremors+anthem |
 
 ## Aperture
-- `deadpool_b3opt.txt` esiste come variante bozza (-Come Back Wrong/-Descent into Avernus/-Terminate,
-  +Fanatic of Mogis/+Grim Tutor/+Reassembling Skeleton) ma non risulta ancora scelta come fisica:
-  confermare con pol quale versione è quella reale prima del prossimo giro di conteggi.
+- ~~`deadpool_b3opt.txt` bozza alternativa~~ — risolto 2026-07-31: era un ramo abbandonato
+  (toccato una sola volta, mai aggiornato dopo la verifica iniziale carta-per-carta), superato
+  dagli swap successivi già applicati su `deadpool.txt` (incluso Terminate). Rimosso dalla repo.
 - Tagli da concordare con pol per ogni entrata (lezione sinergie: qui quasi tutto è motore).
