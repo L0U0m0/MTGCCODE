@@ -191,22 +191,42 @@ possono più fetcharle — downgrade di manabase, probabilmente per motivi di co
 
 ## 5. Collezione
 
-- File attuale: `decks/pol/collection_241170_2026-07-02.csv` (export Moxfield "collezione completa",
-  3.531 carte distinte / 4.490 copie, ~26.540€ listino nonfoil). Sostituisce l'export del giorno
-  prima (rimosso su richiesta di pol) — **quando arriva un nuovo export, sostituire non affiancare**.
-- Colonne: Card Name, Set Code, Set Name, Collector Number, Rarity, Language, Quantity,
-  Condition, Finish, Scryfall ID, Container Type, Container Name.
-- **Attenzione lingua**: ~540 carte sono in IT/FR/DE/ES/JA/PT/RU. Il nome va risolto via
-  **Scryfall ID** (endpoint `/cards/collection`), MAI matchato per stringa sul nome — altrimenti
-  risultano "mancanti" carte che invece sono possedute (bug reale riscontrato su Deadpool:
-  sembrava -8 carte, erano solo nomi italiani).
-- `Container Type` distingue `box` (bulk/bundle, non è un mazzo) da `deck`/`maybeboard`. **Attenzione:**
-  i container `deck` di Moxfield (Sad Men Parade/La cosa verde/Disturbi alimentari) sono rimasti
-  fermi ai vecchi conteggi (89/81/37) anche dopo che i mazzi reali sono stati completati — Moxfield
-  NON riflette i mazzi verificati via lista incollata in chat. Non fidarsi del conteggio `deck` per
-  sapere se un mazzo è completo: usare i txt in `decks/pol/*.txt`, che sono la fonte di verità.
+- **Cambio fonte dati (2026-07-31): da Moxfield a Deckbox-format via tool "Mythic".** pol ha
+  cambiato app di tracking collezione. File attuale: `decks/pol/collection_2026-07-31.csv`
+  (6.762 righe). Sostituisce l'export Moxfield del 2026-07-02 (rimosso — **quando arriva un
+  nuovo export, sostituire non affiancare**, come sempre).
+- **Colonne (formato Deckbox, DIVERSO da Moxfield)**: Count, Tradelist Count, Name, Edition,
+  Condition, Language, Foil, Tags, Last Modified, Collector Number, Alter, Proxy, Purchase
+  Price. **Non ha più `Scryfall ID` né `Container Type`/`Container Name`.**
+- **Risoluzione nomi (metodo cambiato)**: senza Scryfall ID, le carte non-inglesi si risolvono
+  via `set code + collector number` sull'endpoint `/cards/collection` (identifiers
+  `{"set":..., "collector_number":...}`), non più per nome. Script: `import_collection_deckbox.py`
+  (root repo) → produce `decks/pol/collection_normalized_<data>.json` ({nome canonico: quantità
+  totale}). Cache di risoluzione in `decks/pol/collection_resolve_cache.json`.
+- **Niente più `Container Type`**: non si distingue più box/bulk da mazzo/maybeboard nell'export.
+  Non è una perdita grave — Moxfield non era comunque affidabile per questo (vedi sotto) — ma
+  "dove si trova fisicamente la carta" (box specifico) non è più deducibile dai dati, solo
+  "posseduta sì/no e quanto". I riferimenti a box nei vecchi `*_note.md` (Avatarcommander,
+  Spiderman, ProXy, Foundation, bulk...) restano validi come storico ma non più verificabili.
+- ⚠️ **Anomalia riscontrata 2026-07-31, da confermare con pol/app**: la % di carte-mazzo "non
+  trovate" nel nuovo export varia moltissimo tra mazzi — 0% su deadpool/mimeoplasm/shroofus,
+  ma 20-53% su sam_frodo/toph/vincent/sonic/edgar_markov/yshtola/first_sliver, **incluso il
+  comandante stesso su yshtola** (Y'shtola, Night's Blessed risulta 0 posseduta) e staple come
+  Rhystic Study/Sheoldred/Bolas's Citadel. Non è verosimile che siano state vendute. **Ipotesi
+  più probabile**: l'app "Mythic" esclude dall'export le carte già assegnate a un mazzo
+  registrato al suo interno, quindi l'export cattura solo il binder libero per i mazzi "pieni"
+  che pol ha anche costruito nell'app, mentre i mazzi con meno carte doppione/registrate
+  risultano completi per caso. **Non trattare "0 possedute" su carte-cardine come dato reale**
+  senza verifica — vedi i note file dei mazzi coinvolti per il dettaglio.
+- Fonte di verità sul contenuto dei mazzi restano sempre e solo i txt in `decks/pol/*.txt`
+  (mai il conteggio di un tracker esterno, Moxfield o Deckbox che sia).
 - In Commander le quantità ×N servono a rifornire PIÙ mazzi, non a giocare copie multiple
   (eccetto Pauper, dove ×4 è normale).
+- **Migrazione in corso verso Supabase** (decisa da pol 2026-07-31): collezione + mazzi + note +
+  profili di simulazione si spostano da file sparsi a un database Postgres unico. Schema e
+  script in `supabase/` (vedi `supabase/README.md` per i passi di setup — richiede un progetto
+  Supabase e le sue credenziali, non ancora fornite). Finché la migrazione non è completata e
+  verificata, i file in `decks/` restano la fonte di verità operativa.
 
 ---
 

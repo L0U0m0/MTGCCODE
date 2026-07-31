@@ -15,25 +15,32 @@ chiudono a veleno. Ruling chiave (CLAUDE.md): le CDA valgono anche da cimitero/e
 - Difetti: wrath 1; il piano B (infect beatdown senza Mimeoplasm grosso) è lento;
   self-mill buono ma non ottimo.
 
-## Upgrade dalla collezione (liberi)
-| Carta | Dove | Perché |
-|---|---|---|
-| **Hedron Crab** | bulk | landfall self-mill — riempie il cimitero gratis |
-| **Stitcher's Supplier** | bulk | idem on-body (mill 3+3) |
-| **Life from the Loam** | bulk | recupera terre dal self-mill, motore di lungo |
-| **Contagion Clasp** | bulk | proliferate ripetibile (veleno!) + spot piccolo |
-| Altar of the Brood | Foundation | mill avversari (sinergia trigger multipli) — da valutare |
-| Dread Summons | Foundation | mill tutti + token |
-| Culling Ritual | bulk | il wrath che manca (asimmetrico a curva bassa) ⚡conteso Sam&Frodo |
-| Toxic Deluge x2 | ProXy/bulk | wrath premium (1 va a Serpent, 1 resta libero) |
+## Upgrade dalla collezione (liberi) — AGGIORNATO 2026-07-31
+_Fonte collezione: nuovo export Deckbox (tool "Mythic"), niente più box (vedi CLAUDE.md §5).
+**0% delle carte del mazzo manca dal nuovo export**, dati puliti, tutti i suggerimenti sotto
+sono riconfermati liberi:_
 
-## Shopping fuori collezione (Cardmarket)
+| Carta | Libere | Perché |
+|---|--:|---|
+| **Hedron Crab** | 2 | landfall self-mill — riempie il cimitero gratis |
+| **Stitcher's Supplier** | 2 | idem on-body (mill 3+3) |
+| **Life from the Loam** | 2 | recupera terre dal self-mill, motore di lungo |
+| **Contagion Clasp** | 1 | proliferate ripetibile (veleno!) + spot piccolo |
+| Altar of the Brood | 1 | mill avversari (sinergia trigger multipli) |
+| Dread Summons | 2 | mill tutti + token |
+| Culling Ritual | 2 | il wrath che manca (asimmetrico a curva bassa) |
+| **Toxic Deluge** | **1** | ✅ ora davvero libera (nel giro precedente il conteggio era sballato da un file bozza duplicato) — è il wrath premium mancante, aggiungila |
+| **Golgari Grave-Troll** | 1 | era in shopping, in realtà è **già posseduta e libera** — dredge 6 + bestione da copiare, zero spesa |
+
+## Shopping fuori collezione (Cardmarket, ricontrollato 2026-07-31)
 | € | Carta | Ruolo |
 |--:|---|---|
 | ~4 | Triumph of the Hordes | finisher infect di massa (prezzo varia per stampa) |
 | 1,60 | Stinkweed Imp | dredge 5 — self-mill ripetibile |
-| 1,72 | Golgari Grave-Troll | dredge 6 + bestione da copiare |
 | 14,03 | Entomb | tutor-cimitero istantaneo (copia posseduta in Vincent) — lusso |
 
 ## Aperture
 - Validare la lettura infect-first vs copy-first (cambia le priorità di upgrade).
+- Con Toxic Deluge + Culling Ritual + Golgari Grave-Troll dentro, il wrath sale da 1 a 2 e il
+  self-mill si rinforza parecchio: vale un giro di verifica dei numeri (`build_profiles.py` +
+  `sim_pods.py`) dopo l'aggiornamento fisico del txt.
