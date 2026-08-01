@@ -54,6 +54,13 @@ nuova contesa con mazzi reali (verificato):
 - -Grapple with the Past +**Counterspell**
 - -Windfall +**Lightning Greaves**
 
+**Fatto 2026-07-31 (round 3, voltron)**: -Monastery Siege +**My Precious // Allure of Power**
+— Monastery Siege era l'unica carta del mazzo senza sinergia diretta (niente proliferate/cimitero/
+veleno). My Precious: hexproof+unblockable sul comandante-copia (più forte di Whispersilk Cloak,
+che dà solo shroud — hexproof non blocca i TUOI buff), lato adventure Allure of Power è un
+mini value-engine (sacrifica creatura, pesca 2). ⚠️ **NON posseduta (0 copie)** — il txt è già
+aggiornato ma serve comprarla prima di poterla giocare fisicamente (vedi shopping sotto).
+
 ⚠️ **Vile Entomber e Fierce Empath (tutor non-GC, liberi) restano fuori**: non ho trovato un
 secondo taglio pulito senza intaccare carte già ben sinergiche col piano proliferate/veleno
 (controllate una per una: Prologue to Phyresis, Experimental Augury, Tainted Observer,
@@ -67,6 +74,7 @@ su cosa sacrificare.
 | ~4 | Triumph of the Hordes | finisher infect di massa (prezzo varia per stampa) |
 | 1,60 | Stinkweed Imp | dredge 5 — self-mill ripetibile |
 | 14,03 | Entomb | tutor-cimitero istantaneo (copia posseduta in Vincent) — lusso |
+| 4,71 | **My Precious // Allure of Power** | già nel txt (round 3 voltron) — hexproof+unblockable sul comandante, priorità alta |
 | — | **True dual/fetch Sultai** | richiesti per la manabase ma **nessuna libera**: Underground Sea/Tropical Island/Bayou a 0 possedute o già impegnate (Bayou libere=0), stesso per Polluted Delta/Verdant Catacombs/Misty Rainforest — prezzi da controllare se si vuole comprare |
 
 ## Aperture

@@ -39,6 +39,9 @@ _Aggiornato: 2026-07-02_
 - [ ] FUORI: Frantic Search → DENTRO: **Arcane Denial** (2026-07-31, voltron/protezione)
 - [ ] FUORI: Grapple with the Past → DENTRO: **Counterspell** (2026-07-31, voltron/protezione)
 - [ ] FUORI: Windfall → DENTRO: **Lightning Greaves** (2026-07-31, voltron/protezione)
+- [ ] FUORI: Monastery Siege → DENTRO: **My Precious // Allure of Power** (2026-07-31,
+  voltron) — ⚠️ **da COMPRARE prima** (0 copie possedute, ~4,71€ Cardmarket), non è uno
+  spostamento interno alla collezione come gli altri swap sopra
 
 ## deadpool (Sad Men Parade)
 
