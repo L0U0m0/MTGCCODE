@@ -3,7 +3,7 @@
 1 Bloated Contaminator
 1 Viral Drake
 1 Blighted Agent
-1 Death's Shadow
+1 Arcane Signet
 1 Skull Prophet
 1 Spinebiter
 1 Arixmethes, Slumbering Isle
@@ -14,7 +14,7 @@
 1 Yargle and Multani
 1 Cankerbloom
 1 Kheru Goldkeeper
-1 Myr Convert
+1 Sol Ring
 1 Blight Mamba
 1 Gyre Engineer
 1 Flensermite
@@ -25,24 +25,24 @@
 1 Thrummingbird
 1 Ghoultree
 1 Greenseeker
-1 Crop Rotation
-1 Tolarian Winds
+1 Toxic Deluge
+1 Whispersilk Cloak
 1 Tyvar's Stand
 1 Infectious Bite
 1 Prologue to Phyresis
-1 Heritage Reclamation
+1 Command Tower
 1 Experimental Augury
 1 Hero's Downfall
-1 Aspirant's Ascent
+1 Exotic Orchard
 1 Tear Asunder
-1 Frantic Search
+1 Arcane Denial
 1 Rakshasa's Bargain
 1 Grisly Salvage
 1 Snakeskin Veil
 1 Putrefy
 1 Cruel Truths
-1 Grapple with the Past
-1 Windfall
+1 Counterspell
+1 Lightning Greaves
 1 Winternight Stories
 1 Buried Alive
 1 Jarad's Orders

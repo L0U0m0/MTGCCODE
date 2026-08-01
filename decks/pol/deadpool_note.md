@@ -1,6 +1,7 @@
 # Deadpool, Trading Card — stato e ottimizzazione
 
-_2026-07-02 · Rakdos · B3 alto (GC 3/3: Ancient Tomb, The One Ring, Orcish Bowmasters)_
+_2026-07-02 · Rakdos · B3 alto (GC 2: Ancient Tomb, Orcish Bowmasters — era 3/3 con The One Ring,
+ceduto 2026-07-31, vedi sezione Contese)_
 _Strategia VALIDATA con pol._
 
 ## Strategia
@@ -13,27 +14,30 @@ ogni rientro = nuovo scambio → blink/reanimation = removal engine.
 Combo: Orthion+Terror; Nim Deathmantle+Ashnod's Altar+Bowmasters.
 
 ## Stato: 8.5/10 — il più rifinito
-- Numeri: terre 38 · ramp 7 · draw 10 · wrath 3 · spot 9 (post +Terminate)
-- Difetti: **ramp 7 sotto target** (le linee Orthion vogliono 6+ mana); zero tutor (per scelta:
-  quelli buoni sono GC e il tetto è pieno); dipendenza dal cimitero (Bojuka Bog fa male).
+- Numeri: terre 38 · ramp 8 (post -The One Ring +Burnished Hart) · draw 10 · wrath 3 · spot 9
+- Difetti: **ramp 8 ancora sotto target 10** (le linee Orthion vogliono 6+ mana; mancano +2);
+  zero tutor (per scelta: quelli buoni sono GC e il tetto è pieno); dipendenza dal cimitero
+  (Bojuka Bog fa male).
 
 ## Upgrade dalla collezione (liberi) — AGGIORNATO 2026-07-31
 _Fonte collezione: nuovo export Deckbox (tool "Mythic"), niente più posizione/box (vedi
 CLAUDE.md §5) — colonna "Dove" sostituita da quantità libera. Dati puliti per questo mazzo:
 **0% delle carte del mazzo manca dal nuovo export**, quindi le quantità sotto sono affidabili._
 
-**Ramp (fix diretto al difetto "ramp 7 sotto target", serve +3 per arrivare a 10):**
+**Fatto 2026-07-31**: -The One Ring +**Burnished Hart** (ceduto ramp 7→8, apre anche il trigger
+morte gratis su Mayhem Devil/Purphoros/Impact Tremors). 1 copia libera restante su 2 (l'altra è
+in `maelstrom_wanderer`, nessuna contesa). Vedi sezione Contese per il perché del taglio.
+
+**Ramp (serve ancora +2 per arrivare a 10):**
 | Carta | Libere | Perché |
 |---|--:|---|
 | Talisman of Indulgence | 2 | rocce on-color, fixa B/R |
 | Wayfarer's Bauble | 2 | ramp+fix, sac synergy nulla ma pulito |
-| Burnished Hart | 2 | ramp+fix E si sacrifica da solo → trigger Mayhem Devil/Purphoros/Impact Tremors gratis |
 | Pentad Prism | 1 | ramp esplosivo T1-2 |
 | Star Compass | 1 | ramp condizionale ma gratis |
 
-Consiglio: **Talisman of Indulgence + Burnished Hart + Wayfarer's Bauble** (i 3 con più sinergia
-reale, Burnished Hart in particolare regala un trigger morte extra) portano ramp 7→10 esatto sul
-target del template.
+Consiglio: **Talisman of Indulgence + Wayfarer's Bauble** chiudono ramp 8→10 esatto sul target
+del template.
 
 **Altri upgrade liberi:**
 | Carta | Libere | Perché |
@@ -68,10 +72,12 @@ prima di questa verifica solo Damnation era documentata, le altre 10 sono nuove:
 | Mana Confluence | 1 | 3 | edgar_markov, yshtola |
 | Nykthos, Shrine to Nyx | 1 | 3 | toph, vincent |
 | Raucous Theater | 1 | 2 | edgar_markov |
-| **The One Ring** | 1 | 3 | toph, yshtola |
 
-⚠️ **The One Ring è uno dei 3 GC dichiarati di deadpool** (vedi intestazione) ed è il conflitto
-più grave: 3 mazzi reali lo vogliono, 1 sola copia posseduta. Non è un dettaglio, va deciso.
+✅ **The One Ring — risolto 2026-07-31**: deadpool non è il mazzo che ne beneficia di più (aggro
+a curva bassa, non control) e cederlo risolve nello stesso movimento il difetto ramp sotto
+target (vedi sopra, sostituito con Burnished Hart). Deadpool esce dalla contesa; resta un
+2 vie tra `toph` e `yshtola` (possedute=1, entrambi la vogliono) — **da decidere separatamente,
+non riguarda più questo mazzo**.
 
 A rischio aggiuntivo se `vision_scarlet_witch` risulta effettivamente reale (non ancora
 classificato in CLAUDE.md §3): **Ancient Tomb** (l'altro GC di deadpool, possedute=1, reali=1

@@ -13,6 +13,7 @@
 1 Blightstep Pathway // Searstep Pathway
 1 Blood Crypt
 1 Bloodstained Mire
+1 Burnished Hart
 1 Captain Lannery Storm
 1 Chaos Warp
 1 Come Back Wrong
@@ -34,7 +35,6 @@
 1 Fated Firepower
 1 Feign Death
 1 Foreboding Ruins
-1 Terminate
 1 Graven Cairns
 1 Heat Shimmer
 1 Helm of the Host
@@ -82,10 +82,10 @@
 1 Swamp
 1 Swamp
 1 Tainted Peak
+1 Terminate
 1 Terror of the Peaks
 1 The Fire Crystal
 1 The Master, Multiplied
-1 The One Ring
 1 Toxic Deluge
 1 Tragic Slip
 1 Treasure Map // Treasure Cove

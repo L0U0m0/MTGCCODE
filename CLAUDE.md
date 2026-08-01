@@ -119,7 +119,7 @@ Tutti 100 carte incluso il comandante, salvo dove segnalato. GC contati sulla li
 | `first_sliver` | The First Sliver | 5c | sliver tribal fair | **0** | B2-B3 | combo storica (Intruder Alarm+Sliver Overlord) **rimossa** dal fisico: verificare se voluto |
 | `yshtola` | Y'shtola, Night's Blessed | Esper | drain/control | 3 (The One Ring, Bolas's Citadel, Rhystic Study) | B3 | combo Bloodchief Ascension+Mindcrank confermata presente |
 | `edgar_markov` | Edgar Markov | Mardu | Vampiri go-wide | 3 (Demonic Tutor, Necropotence, Farewell) | **B3** (era B4 nel vecchio audit — già sistemato!) | niente più fast mana né combo Exquisite Blood/Sanguine Bond/Vito |
-| `mimeoplasm` | The Mimeoplasm | Sultai | graveyard/copia + **infect** | 1 (Crop Rotation) | B3 basso | wincon veleno via creature infect copiate/ingrandite dal cimitero |
+| `mimeoplasm` | The Mimeoplasm | Sultai | graveyard/copia + **infect voltron** | 0 (era 1, Crop Rotation tagliato 2026-07-31) | **B2** (era B3 basso) | wincon veleno via creature infect copiate/ingrandite dal cimitero, ora con pacchetto protezione (Lightning Greaves/Whispersilk Cloak) + counterspell (2026-07-31) |
 
 ### Teorici (lista ricevuta, non montati — NON auditati in profondità)
 

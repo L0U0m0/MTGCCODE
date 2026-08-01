@@ -29,10 +29,22 @@ _Aggiornato: 2026-07-02_
 
 - [ ] FUORI: Sultai Banner → DENTRO: **Assassin's Trophy** (bulk, ECC o SOC)
 - [ ] FUORI: Auroral Procession → DENTRO: **Hero's Downfall** (Foundation o Avatar bundle)
+- [ ] FUORI: Crop Rotation → DENTRO: **Toxic Deluge** (2026-07-31, taglio di bracket:
+  Crop Rotation era l'unico GC, portava il mazzo a B3 basso — ora B2 pulito)
+- [ ] FUORI: Death's Shadow → DENTRO: **Arcane Signet** (2026-07-31, voltron/protezione)
+- [ ] FUORI: Myr Convert → DENTRO: **Sol Ring** (2026-07-31, voltron/protezione)
+- [ ] FUORI: Tolarian Winds → DENTRO: **Whispersilk Cloak** (2026-07-31, voltron/protezione)
+- [ ] FUORI: Heritage Reclamation → DENTRO: **Command Tower** (2026-07-31, voltron/protezione)
+- [ ] FUORI: Aspirant's Ascent → DENTRO: **Exotic Orchard** (2026-07-31, voltron/protezione)
+- [ ] FUORI: Frantic Search → DENTRO: **Arcane Denial** (2026-07-31, voltron/protezione)
+- [ ] FUORI: Grapple with the Past → DENTRO: **Counterspell** (2026-07-31, voltron/protezione)
+- [ ] FUORI: Windfall → DENTRO: **Lightning Greaves** (2026-07-31, voltron/protezione)
 
 ## deadpool (Sad Men Parade)
 
 - [ ] FUORI: Grave Betrayal → DENTRO: **Terminate** (bulk, ECC)
+- [ ] FUORI: The One Ring → DENTRO: **Burnished Hart** (2026-07-31, ceduto a favore di
+  toph/yshtola — vedi deadpool_note.md sezione Contese; risolve anche ramp sotto target)
 
 ---
 

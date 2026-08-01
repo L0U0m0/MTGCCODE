@@ -1146,5 +1146,174 @@
 0
 ],
 "wincons": 1
+},
+"pol/coulson": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"pol/coulson_premium": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"pol/maelstrom_wanderer": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"pol/muddle": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"pol/rielle": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"pol/vision_scarlet_witch": {
+"n_combos": 3,
+"pieces": 5,
+"mvs": [
+4,
+2,
+2
+],
+"wincons": 0
+},
+"rocchi/caesar_legion_s_emperor": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"rocchi/gandalf_party_guest": {
+"n_combos": 2,
+"pieces": 4,
+"mvs": [
+6,
+4
+],
+"wincons": 0
+},
+"rocchi/shorikai_genesis_engine": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"saverio/atraxa_praetors_voice": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"sbaragli/ardbert_warrior_of_darkness": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"sbaragli/bria_riptide_rogue": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"sbaragli/brigid_clachan_s_heart_brigid_doun_s_mind": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"sbaragli/choco_seeker_of_paradise": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"sbaragli/doran_besieged_by_time": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"sbaragli/general_kreat_the_boltbringer": {
+"n_combos": 2,
+"pieces": 4,
+"mvs": [
+0,
+4
+],
+"wincons": 2
+},
+"sbaragli/general_kreat_the_boltbringer_2": {
+"n_combos": 2,
+"pieces": 4,
+"mvs": [
+0,
+4
+],
+"wincons": 2
+},
+"sbaragli/grist_the_hunger_tide": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"sbaragli/inspirit_flagship_vessel": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"sbaragli/kibo_uktabi_prince": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"sbaragli/raiyuu_storm_s_edge": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"sbaragli/sokka_and_suki": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"sbaragli/sokka_tenacious_tactician": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"sbaragli/ureni_of_the_unwritten": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"sbaragli/ureni_of_the_unwritten_2": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
+},
+"sbernuz/dion_bahamut_s_dominant_bahamut_warden_of_light": {
+"n_combos": 0,
+"pieces": 0,
+"mvs": [],
+"wincons": 0
 }
 }
