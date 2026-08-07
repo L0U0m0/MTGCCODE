@@ -3,3 +3,4 @@ files.zip
 __pycache__/
 *.pyc
 supabase_credentials.json
+resp.json
