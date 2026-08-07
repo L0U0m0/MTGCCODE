@@ -320,6 +320,12 @@ presumibilmente bozze vuote).
   script in `supabase/` (vedi `supabase/README.md` per i passi di setup — richiede un progetto
   Supabase e le sue credenziali, non ancora fornite). Finché la migrazione non è completata e
   verificata, i file in `decks/` restano la fonte di verità operativa.
+- **Eccezione già operativa: `collection` su Supabase è di proprietà del bot BolasScryer**
+  (righe `source='bot_csv'`, import CSV `importa_collezione.py` + refresh prezzi
+  domenicale, dal 2026-08-07). Da qui si **legge e basta**: MAI ricaricarla via
+  MCP/SQL — un reload col vecchio schema stretto perderebbe i campi ricchi
+  (set/numero/finish/proxy/contenitore/prezzo). Il CSV in `decks/pol/` resta per le
+  consulenze locali; per i conteggi di possesso preferire la lettura da Supabase.
 
 ---
 
