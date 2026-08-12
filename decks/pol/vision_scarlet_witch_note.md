@@ -9,7 +9,13 @@ collezione: la build Mythic era a 98 carte con 9 non montabili (6 mai possedute 
 in mazzi reali). La vecchia versione del txt (build teorica 2026-07-07/08, mai montata così)
 è sostituita — storia nel git log.
 
-## ⚠️ BRACKET: B4 DI FATTO — decisione da riprendere con pol
+## BRACKET: B4 DICHIARATO (deciso da pol 2026-08-12: Grinning Ignus resta)
+
+**Decisione presa**: pol tiene Grinning Ignus → il loop col comandante resta e il mazzo **è
+B4, dichiarato apertamente**. Nota: tagliare Birgi non sarebbe servito comunque (Ignus +
+comandante è già infinito da solo); Birgi resta anche lei. Contesto storico sotto.
+
+### Contesto (analisi 2026-08-12, pre-decisione)
 
 La build Mythic reintroduce **Grinning Ignus E Birgi, God of Storytelling insieme**. Il
 2026-07-07 pol aveva **rimosso Ignus di proposito** perché col comandante è un infinito a
@@ -70,6 +76,6 @@ bracket di cui sopra).
 
 ## Aperti
 
-1. **Ignus vs Birgi: chi esce per tornare B3?** (o si dichiara B4 e ci si gioca così)
+1. ~~Ignus vs Birgi~~ — **risolto 2026-08-12: Ignus resta, B4 dichiarato** (vedi sezione Bracket).
 2. Sim da rifare (`build_profiles.py` + `sim_pods.py`) sulla lista nuova.
 3. Il mazzo su Mythic è a 98: allineare l'app alla lista qui (100) quando pol applica gli swap.

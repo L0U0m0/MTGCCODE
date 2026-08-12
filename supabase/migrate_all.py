@@ -147,9 +147,6 @@ def main():
         per_deck_cards[(player, slug)] = rows
 
     drows = sb.upsert("decks", all_deck_rows, on_conflict="player_id,slug")
-    for r in drows:
-        # player_id torna come id numerico; serve rimapparlo sull'handle
-        pass
     # ri-seleziona per ottenere (player handle, slug) -> id in modo affidabile
     all_decks = sb.select("decks", select="id,player_id,slug")
     handle_by_id = {v: k for k, v in player_id.items()}
@@ -158,6 +155,30 @@ def main():
         if h:
             deck_id[(h, d["slug"])] = d["id"]
     print(f"decks upsertati: {len(drows)}")
+
+    # pulizia orfani: mazzi su Supabase di giocatori GESTITI DA QUESTA REPO
+    # (hanno un folder in decks/) i cui file .txt non esistono piu'. Il delete
+    # cascata su deck_cards/sim_profiles/deck_combo_cache. Giocatori importati
+    # da altre fonti (es. bot BolasScryer) NON vengono toccati: non hanno folder.
+    local_slugs = {(p, s) for (p, s) in per_deck_cards}
+    orphans = [d for d in all_decks
+               if handle_by_id.get(d["player_id"]) in {p for p, _ in local_slugs}
+               and (handle_by_id[d["player_id"]], d["slug"]) not in local_slugs]
+    kept = 0
+    for d in orphans:
+        # prima le tabelle derivate NOSTRE (nessun vincolo esterno)
+        for t in ("sim_profiles", "deck_combo_cache", "deck_cards"):
+            sb.delete(t, deck_id=f"eq.{d['id']}")
+        # poi la riga mazzo: puo' essere referenziata da tabelle create dal bot
+        # (es. deck_values, fuori dal nostro schema) -> in quel caso la lasciamo
+        try:
+            sb.delete("decks", id=f"eq.{d['id']}")
+        except RuntimeError:
+            kept += 1
+        deck_id.pop((handle_by_id[d["player_id"]], d["slug"]), None)
+    if orphans:
+        print(f"decks orfani ripuliti: {len(orphans)}"
+              + (f" (di cui {kept} righe-mazzo lasciate: referenziate da tabelle del bot)" if kept else ""))
 
     for (player, slug), rows in per_deck_cards.items():
         did = deck_id.get((player, slug))
