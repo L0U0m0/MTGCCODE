@@ -1,100 +1,76 @@
 1 The Vision and Scarlet Witch
-1 Sol Ring
-1 Arcane Signet
-1 Mana Vault
-1 Ancient Tomb
-1 The One Ring
-1 Mind Stone
-1 Fellwar Stone
-1 Commander's Sphere
-1 Hedron Archive
-1 Runaway Steam-Kin
-1 Storm-Kiln Artist
-1 Guttersnipe
-1 Firebrand Archer
-1 Expressive Firedancer
-1 Crackling Cyclops
-1 Witty Roastmaster
-1 Thunderdrum Soloist
-1 Impact Tremors
-1 Molten Lavamancer
-1 Torbran, Thane of Red Fell
-1 Pyromancer's Goggles
-1 Heartfire Immolator
-1 Firespitter Whelp
-1 Speed, Young Avenger
-1 Vivi's Persistence
 1 Ashling, Flame Dancer
-1 Glint-Horn Buccaneer
-1 Wheel of Fortune
-1 Faithless Looting
-1 Cathartic Reunion
-1 Thrill of Possibility
-1 Seize the Spoils
-1 Big Score
-1 Red Elemental Blast
+1 Avatar Roku, Firebender
+1 Birgi, God of Storytelling // Harnfel, Horn of Bounty
+1 Blazing Firesinger // Seething Song
 1 Conspiracy Theorist
-1 Defense Grid
-1 Crossover Collaboration
-1 Reckless Ransacking
-1 Pyroblast
-1 Chaos Warp
-1 Commander's Plate
-1 Deflecting Swat
-1 Lightning Greaves
-1 Mithril Coat
-1 End-Blaze Epiphany
-1 Reiterate
-1 Twinning Staff
-1 Return the Favor
-1 Lightning Bolt
-1 Abrade
-1 Magma Jet
-1 Lightning Strike
-1 Burst Lightning
-1 Cathartic Pyre
-1 Electrostatic Bolt
-1 Brotherhood's End
-1 Chain Reaction
-1 Blasphemous Act
+1 Crackling Cyclops
+1 Firebending Student
+1 Firebrand Archer
+1 Firespitter Whelp
+1 Glint-Horn Buccaneer
+1 Grinning Ignus
+1 Guttersnipe
+1 Hawkeye, Young Avenger
+1 Heartfire Immolator
+1 Hexing Squelcher
+1 Human Torch, Johnny Storm
+1 Molten Lavamancer
+1 Quicksilver, Brash Blur
+1 Runaway Steam-Kin
+1 Speed, Young Avenger
+1 Storm-Kiln Artist
+1 Thunderdrum Soloist
+1 Torbran, Thane of Red Fell
+1 Urabrask // The Great Work
+1 Witty Roastmaster
+1 Big Score
 1 Bolt Bend
-1 Grapeshot
-1 Crackle with Power
+1 Burst Lightning
+1 Chaos Warp
+1 Crossover Collaboration
+1 Deflecting Swat
 1 Electrodominance
-1 Haze of Rage
-1 Archaic's Agony
+1 End-Blaze Epiphany
+1 Flashback
+1 Lightning Bolt
+1 Lightning Strike
+1 Pyroblast
+1 Red Elemental Blast
+1 Redirect Lightning
+1 Reiterate
+1 Return the Favor
+1 Seething Song
+1 Thrill of Possibility
+1 Blasphemous Act
+1 Boltwave
+1 Brotherhood's End
+1 Crackle with Power
+1 Faithless Looting
+1 Grapeshot
+1 Photon Blast Barrage
+1 Wheel of Fortune
+1 Arcane Signet
+1 Caged Sun
+1 Commander's Sphere
+1 Defense Grid
 1 Embercleave
-1 Sundial of the Infinite
+1 Hawkeye's Bow
+1 Hedron Archive
+1 Lightning Greaves
+1 Mana Vault
+1 Pyromancer's Goggles
+1 Sol Ring
+1 Swiftfoot Boots
+1 Tablet of Discovery
+1 Twinning Staff
+1 Cool but Rude
+1 Super Speed
+1 Wanda's Vision
 1 Castle Doom
-1 Flamekin Village
-1 Cryptic Caves
-1 Forgotten Cave
 1 Crawling Barrens
+1 Cryptic Caves
+1 Flamekin Village
+1 Forgotten Cave
 1 Ghitu Encampment
-1 Demolition Field
-1 Strip Mine
-1 Mountain
-1 Mountain
-1 Mountain
-1 Mountain
-1 Mountain
-1 Mountain
-1 Mountain
-1 Mountain
-1 Mountain
-1 Mountain
-1 Mountain
-1 Mountain
-1 Mountain
-1 Mountain
-1 Mountain
-1 Mountain
-1 Mountain
-1 Mountain
-1 Mountain
-1 Mountain
-1 Mountain
-1 Mountain
-1 Mountain
-1 Mountain
-1 Mountain
+25 Mountain

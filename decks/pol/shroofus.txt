@@ -8,7 +8,7 @@
 1 Dosan the Falling Leaf
 1 Ohran Frostfang
 1 Seedborn Muse
-1 Elvish Farmer
+1 The Great Henge
 1 Brightcap Badger // Fungus Frolic
 1 Tendershoot Dryad
 1 Mutable Explorer
@@ -24,7 +24,7 @@
 1 Echoing Courage
 1 Might of the Masses
 1 Inner Calm, Outer Strength
-1 Peerless Recycling
+1 Voracious Hydra
 1 Finale of Devastation
 1 Three Visits
 1 Rishkar's Expertise
@@ -39,12 +39,12 @@
 1 Coat of Arms
 1 Helm of the Host
 1 Skullclamp
-1 Banner of Kinship
+1 Bite Down
 1 Beast Within
 1 Eldrazi Monument
 1 Sword of the Animist
 1 White Lotus Tile
-1 Konda's Banner
+1 Tenderize
 1 Patchwork Banner
 1 Sol Ring
 1 Maskwood Nexus
@@ -60,7 +60,7 @@
 1 Sapling Nursery
 1 Indomitable Might
 1 Path of Discovery
-1 Overwhelming Instinct
+1 Roaming Throne
 1 Fungal Plots
 1 Gaea's Cradle
 1 Mutavault

@@ -112,7 +112,7 @@ Tutti 100 carte incluso il comandante, salvo dove segnalato. GC contati sulla li
 |---|---|---|---|---|---|---|
 | `deadpool` | Deadpool, Trading Card | Rakdos | copie ETB + burn | 3 (da riverificare c/ lista 53) | B3 alto | completo, legale; combo sotto |
 | `sam_frodo` | Frodo + Sam (partner) | Abzan | Food/drain combo | 2 (Smothering Tithe, Aura Shards) | B3 spinto | tutto passa da Warren Soultrader; poca rimozione |
-| `shroofus` | Shroofus Sproutsire | mono-G | Saproling go-wide/token | 2 (Seedborn Muse, Gaea's Cradle) | B3 | rimozione mirata quasi assente (1 sola carta, Longstalk Brawl) |
+| `shroofus` | Shroofus Sproutsire | mono-G | Saproling go-wide/token | 2 (Seedborn Muse, Gaea's Cradle) | B3 | rimozione salita da 2 a 5 (2026-07-31: +Voracious Hydra/Bite Down/Tenderize) + The Great Henge in main |
 | `toph` | Toph, the First Metalbender | Naya | lands/landfall | 3 (Crop Rotation, The One Ring, Field of the Dead) | B3 | 3 Toph extra nel main (legale, insolito); rimozione mirata sotto target |
 | `vincent` | Vincent Valentine // Galian Beast | mono-B | aristocrats/drain | 3 (Vampiric Tutor, Imperial Seal, Necropotence) | **B4 di fatto** | ha ancora Exquisite Blood+Enduring Tenacity: combo cheap nonostante GC≤3 |
 | `sonic` | Sonic the Hedgehog | Jeskai | treasure/haste-flash | 3 (Enlightened Tutor, Jeska's Will, Smothering Tithe) | B3 | manabase: duali originali sostituite con painland (vedi §4) |
@@ -261,9 +261,10 @@ presumibilmente bozze vuote).
    Blood+Enduring Tenacity tutorabile presto. Per portarlo a B3 vero: tagliare la combo.
 4. **Interazione mirata scarsa** (pattern ricorrente): Shroofus (1 sola rimozione mirata in tutto
    il mazzo), Toph, Sam & Frodo → +rimozione in-color (Swords/Path/Beast Within/Generous Gift).
-5. **Shroofus — completamento**: The Great Henge è in maybeboard invece che in main (ROI alto,
-   va dentro); Firdoch Core/Phyrexian Altar/Wolfwillow Haven in maybeboard sono filler deboli per
-   l'archetipo, meglio lasciarli fuori.
+5. **Shroofus — completamento**: ✅ fatto 2026-07-31, The Great Henge è ora nel txt principale
+   (era in maybeboard). Rimozione salita da 2 a 5 pezzi nello stesso giro (vedi sezione 3 e
+   `shroofus_note.md`). Firdoch Core/Phyrexian Altar/Wolfwillow Haven restano fuori (filler
+   deboli per l'archetipo, confermato).
 6. **Ultron**: ora 100 carte (tagliato Idol of Oblivion). Per montarlo: 79 nomi mancanti ≈ 581€
    (≈318€ condividendo 11 carte già in altri mazzi) — dettaglio in `decks/pol/ultron_mancanti.md`.
 7. **Analisi approfondita strategica in corso** (2026-07-02, pol valida le letture una per una):
@@ -284,33 +285,29 @@ presumibilmente bozze vuote).
 
 ## 5. Collezione
 
-- **Cambio fonte dati (2026-07-31): da Moxfield a Deckbox-format via tool "Mythic".** pol ha
-  cambiato app di tracking collezione. File attuale: `decks/pol/collection_2026-07-31.csv`
-  (6.762 righe). Sostituisce l'export Moxfield del 2026-07-02 (rimosso — **quando arriva un
-  nuovo export, sostituire non affiancare**, come sempre).
-- **Colonne (formato Deckbox, DIVERSO da Moxfield)**: Count, Tradelist Count, Name, Edition,
-  Condition, Language, Foil, Tags, Last Modified, Collector Number, Alter, Proxy, Purchase
-  Price. **Non ha più `Scryfall ID` né `Container Type`/`Container Name`.**
-- **Risoluzione nomi (metodo cambiato)**: senza Scryfall ID, le carte non-inglesi si risolvono
-  via `set code + collector number` sull'endpoint `/cards/collection` (identifiers
-  `{"set":..., "collector_number":...}`), non più per nome. Script: `import_collection_deckbox.py`
-  (root repo) → produce `decks/pol/collection_normalized_<data>.json` ({nome canonico: quantità
-  totale}). Cache di risoluzione in `decks/pol/collection_resolve_cache.json`.
-- **Niente più `Container Type`**: non si distingue più box/bulk da mazzo/maybeboard nell'export.
-  Non è una perdita grave — Moxfield non era comunque affidabile per questo (vedi sotto) — ma
-  "dove si trova fisicamente la carta" (box specifico) non è più deducibile dai dati, solo
-  "posseduta sì/no e quanto". I riferimenti a box nei vecchi `*_note.md` (Avatarcommander,
-  Spiderman, ProXy, Foundation, bulk...) restano validi come storico ma non più verificabili.
-- ⚠️ **Anomalia riscontrata 2026-07-31, da confermare con pol/app**: la % di carte-mazzo "non
-  trovate" nel nuovo export varia moltissimo tra mazzi — 0% su deadpool/mimeoplasm/shroofus,
-  ma 20-53% su sam_frodo/toph/vincent/sonic/edgar_markov/yshtola/first_sliver, **incluso il
-  comandante stesso su yshtola** (Y'shtola, Night's Blessed risulta 0 posseduta) e staple come
-  Rhystic Study/Sheoldred/Bolas's Citadel. Non è verosimile che siano state vendute. **Ipotesi
-  più probabile**: l'app "Mythic" esclude dall'export le carte già assegnate a un mazzo
-  registrato al suo interno, quindi l'export cattura solo il binder libero per i mazzi "pieni"
-  che pol ha anche costruito nell'app, mentre i mazzi con meno carte doppione/registrate
-  risultano completi per caso. **Non trattare "0 possedute" su carte-cardine come dato reale**
-  senza verifica — vedi i note file dei mazzi coinvolti per il dettaglio.
+- **Fonte dati: tool "Mythic"**, export in formato Deckbox. File attuale:
+  `decks/pol/collection_2026-08-12.csv` (7.095 righe). Sostituisce l'export del 2026-07-31
+  (rimosso — **quando arriva un nuovo export, sostituire non affiancare**, come sempre).
+- **Formato cambiato di nuovo il 2026-08-12** rispetto a quello del 31/7: colonne ora
+  `Card Name, English Name, Set Code, Set Name, Collector Number, Rarity, Language, Quantity,
+  Condition, Finish, ..., Scryfall ID, Container Type, Container Name, ...`. **`English Name`
+  e `Scryfall ID` sono tornati** (assenti nel formato 31/7) — niente più bisogno di risolvere
+  i nomi non-inglesi via set+collector number, la colonna `English Name` li dà già diretti.
+  **`Container Type`/`Container Name` sono tornati anch'essi** (box/deck/maybeboard).
+- Script: `import_collection_deckbox.py <csv> [data]` (root repo) → somma le quantità per
+  `English Name` su **tutti** i Container Type (sono comunque copie possedute fisicamente,
+  il container è solo organizzazione interna dell'app) → `decks/pol/collection_normalized_<data>.json`.
+  Il vecchio `collection_resolve_cache.json` (specifico del formato 31/7) è stato rimosso,
+  non serve più.
+- ⚠️ **Anomalia "carte mancanti" del 2026-07-31 NON è un artefatto d'export — confermato
+  2026-08-12**: l'ipotesi precedente ("Mythic esclude le carte già assegnate a un mazzo
+  registrato") è **smentita**: anche sommando tutti i Container Type (incluso `deck`, 2.643
+  copie) nel nuovo export, Y'shtola Night's Blessed / Rhystic Study / Sheoldred, the Apocalypse
+  / Bolas's Citadel **restano completamente assenti**. Due export indipendenti, formati diversi,
+  stesso risultato → più probabile che queste carte **non siano fisicamente possedute**
+  nonostante siano elencate come Game Changer dichiarati in `yshtola.txt`/nota. **Verificare
+  con pol prima del prossimo giro di ottimizzazione su yshtola**: se confermato, il bracket
+  dichiarato (B3, 3 GC) e la lista carte vanno rivisti insieme a lui.
 - Fonte di verità sul contenuto dei mazzi restano sempre e solo i txt in `decks/pol/*.txt`
   (mai il conteggio di un tracker esterno, Moxfield o Deckbox che sia).
 - In Commander le quantità ×N servono a rifornire PIÙ mazzi, non a giocare copie multiple

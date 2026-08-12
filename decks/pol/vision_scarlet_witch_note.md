@@ -1,132 +1,75 @@
-# The Vision and Scarlet Witch (teorico) — mono-R spellslinger/storm, calibrato B3 spinto
+# The Vision and Scarlet Witch — mono-R spellslinger/storm ("Total eclipse of the heart")
 
 Comandante: **The Vision and Scarlet Witch** `{2}{R}{R}` — Legendary Artifact Creature — Mutant
 Hero, volare. *"Ogni volta che lanci una magia, aggiungi {R} e metti un +1/+1 su di lui."*
-Paga sul **conteggio di magie lanciate** (non sul tipo Hero): è un motore ritual + crescita
-voltron. Colore nuovo per pol (mono-R non giocato) — riempie un buco reale.
 
-Analisi montabilità: 2026-07-07. Pool verificato via Scryfall ID sul CSV collezione
-`collection_241170_2026-07-02.csv` (nomi multilingua risolti per ID, mai per stringa).
+**2026-08-12: il txt ora riflette la build viva su Mythic Tools**
+(`mythic.tools/user/6y3MWu/deck/6uf2yK`, "Total eclipse of the heart"), ottimizzata con la
+collezione: la build Mythic era a 98 carte con 9 non montabili (6 mai possedute + 3 impegnate
+in mazzi reali). La vecchia versione del txt (build teorica 2026-07-07/08, mai montata così)
+è sostituita — storia nel git log.
 
-## Verdetto secco
+## ⚠️ BRACKET: B4 DI FATTO — decisione da riprendere con pol
 
-**Montabile subito.** Le 99 sono tutte dal box libero **tranne 3 carte coperte da proxy di pol**
-(The One Ring, Ancient Tomb, Wheel of Fortune — vedi bracket). Il pool mono-R è profondissimo
-(663 carte possedute, 147 instant/sorcery, 82 terre rosse): materia prima 4× il necessario.
+La build Mythic reintroduce **Grinning Ignus E Birgi, God of Storytelling insieme**. Il
+2026-07-07 pol aveva **rimosso Ignus di proposito** perché col comandante è un infinito a
+1 carta (verificato allora su Commander Spellbook) — era ciò che rendeva il mazzo B4. Con
+Birgi in più il loop è ancora più largo (Ignus si rilancia in mana-positivo → storm infinito
+con qualsiasi payoff: Guttersnipe/Firebrand Archer/Witty Roastmaster = danno infinito).
+GC attuali: **1 solo (Mana Vault)** — ma il conteggio GC non salva il bracket: come Vincent,
+è **B4 di fatto per combo cheap**. Per tornare B3: fuori Grinning Ignus (o Birgi).
+**Non deciso qui — va scelto da pol.**
 
-## Bracket: B3 spinto (scelta di pol, 2026-07-07)
+## Swap applicati 2026-08-12 (build Mythic → montabile con la collezione)
 
-Deratato di proposito da B4 a **B3 vero**, il più alto possibile:
+Non possedute (6):
+| Fuori | Dentro | Note |
+|---|---|---|
+| Ragavan, Nimble Pilferer | Conspiracy Theorist | downgrade secco, Ragavan non ha sostituto — in shopping |
+| Jeska's Will (GC) | Wheel of Fortune | refill; Wheel NON è GC (lista ufficiale) |
+| Aetherflux Reservoir | Electrodominance | finisher X + free cast |
+| Ruby Medallion | Mana Vault (4 libere) | fast mana, unico GC della build |
+| The Last Agni Kai | Chaos Warp (7 libere) | removal flessibile |
+| Fogwell's Gym | Flamekin Village | terra utility (haste) |
 
-- **Game Changer: 3 esatti** — **Mana Vault** (box), **Ancient Tomb** (proxy), **The One Ring**
-  (proxy). Scelti i 3 più forti: fast mana + il miglior motore-pesca/protezione del formato.
-- **Nessun infinito**: rimosso **Grinning Ignus** (col comandante era un infinito a 1 carta
-  pescata, verificato su Commander Spellbook — è ciò che rendeva il mazzo B4). Tolto anche
-  **Underworld Breach** (era il 4°-5° GC + motore storm degenere).
-- **Wheel of Fortune NON è GC** → entra libero (via proxy), refill esplosivo senza costare bracket.
-- Restano `Reiterate + Storm-Kiln Artist` e `Pyromancer's Goggles`: sono **turni di storm grossi,
-  NON infiniti** (mana-negativi senza un motore esterno) → B3-legali. Verificato.
+Impegnate in mazzi reali (3):
+| Fuori | Dentro | Contesa evitata |
+|---|---|---|
+| Ancient Tomb (GC) | Cryptic Caves | in deadpool |
+| The Fire Crystal | Commander's Sphere (10 libere) | in deadpool |
+| Impact Tremors | Defense Grid | in edgar_markov+deadpool; ridondante con Guttersnipe/Firebrand/Roastmaster |
 
-Rispetto a Grim Monolith/Underworld Breach (usciti), sono entrati One Ring + Ancient Tomb (proxy):
-upgrade netto di potenza restando a 3 GC.
+Aggiunte per arrivare a 100 (la build Mythic era 98, "Not Legal"):
+**Faithless Looting** (filtraggio) + **Blasphemous Act** (secondo sweeper, 9 libere).
 
-## Composizione (100 incl. comandante)
+Effetto collaterale positivo: la vecchia build txt impegnava The One Ring e Ancient Tomb via
+proxy — la nuova non li usa, si alleggeriscono le contese segnalate in `deadpool_note.md`.
 
-- **34 terre** (25 Mountain + 9 utility: Ancient Tomb, Castle Doom, Flamekin Village, Cryptic
-  Caves, Forgotten Cave, Crawling Barrens, Ghitu Encampment, Demolition Field, Strip Mine) —
-  mono-R, zero problemi di fixing.
-- **9 mana rock/rampa**: Sol Ring, Arcane Signet, Mana Vault, Mind Stone, Fellwar Stone,
-  Commander's Sphere, Hedron Archive, Runaway Steam-Kin, + The One Ring come pesca-motore.
-- **11 payoff "spells matter"**: Storm-Kiln Artist, Guttersnipe, Firebrand Archer, Expressive
-  Firedancer, Crackling Cyclops, Witty Roastmaster, Thunderdrum Soloist, Impact Tremors,
-  Molten Lavamancer, Torbran (amplifica ogni ping), Pyromancer's Goggles.
-- **7 creature/valore secondarie**: Heartfire Immolator, Firespitter Whelp, Speed Young
-  Avenger, Vivi's Persistence, Ashling Flame Dancer, Glint-Horn Buccaneer, Conspiracy Theorist.
-- **card advantage/loot/treasure**: Wheel of Fortune, Faithless Looting, Cathartic Reunion,
-  Thrill of Possibility, Seize the Spoils, Big Score, Crossover Collaboration, Reckless
-  Ransacking + cantrip (End-Blaze Epiphany).
-- **3 copia-magie**: Reiterate, Twinning Staff, Return the Favor.
-- **interazione**: Lightning Bolt, Abrade, Magma Jet, Lightning Strike, Burst Lightning,
-  Cathartic Pyre, Electrostatic Bolt, **Chaos Warp** (risposta a non-artefatti), + 3 sweeper
-  (Brotherhood's End, Chain Reaction, Blasphemous Act).
-- **protezione (pacchetto aggiunto 2026-07-08)**: Lightning Greaves + Commander's Plate
-  (protezione da 4 colori in mono-R) + Mithril Coat (indistruttibile flash, save reattivo) per
-  il comandante-motore; Defense Grid + Red Elemental Blast + Pyroblast + Bolt Bend + Deflecting
-  Swat + Return the Favor per il turno-storm/redirect.
-- **6 finisher/mana sink**: Grapeshot, Crackle with Power, Electrodominance, Haze of Rage,
-  Archaic's Agony, Embercleave (voltron sul comandante che cresce a ogni magia).
-- **Sundial of the Infinite**: utility (fissa copie temporanee / salta upkeep sfavorevoli).
+## Verifica montabilità (collezione export 2026-08-12)
 
-## Piano di gioco (senza combo)
+**Tutte le 100 carte possedute e libere** dopo gli swap (Mountain: servono 25, possedute 111).
+Nessuna contesa con i 10 mazzi reali.
 
-Cala presto rocce/comandante, incatena cantrip e burn a basso costo: ogni magia cresce il
-comandante (+1/+1 e {R}) e pinga il tavolo via Guttersnipe/Firebrand/Impact Tremors, con Torbran
-a raddoppiare. Refill con Wheel/One Ring. Chiudi con: (a) comandante gigante volante +
-Embercleave, o (b) un grosso turno di storm → Grapeshot / Crackle with Power / Electrodominance.
-Nessun loop: è velocità + inevitabilità, non un infinito. **Debolezza storica**: fragile ai wrath
-(dipende da creature-payoff) — mitigata dal pacchetto protezione 2026-07-08 (Commander's Plate/
-Greaves/Mithril Coat sul comandante + Defense Grid/REB/Pyroblast sul turno). Board-wide anti-wrath
-resta scoperto: **Eldrazi Monument escluso da pol** (impegnato in "La cosa verde").
+## Shopping se vuoi la build Mythic com'era (Cardmarket, prezzi da confermare)
+| Carta | Ruolo | Stima |
+|---|---|---|
+| Ragavan, Nimble Pilferer | aggressione T1 + treasure | ~40€ |
+| Jeska's Will | ritual+impulse (GC — attenzione al conteggio) | ~8-10€ |
+| Aetherflux Reservoir | wincon storm alternativa | ~3-4€ |
+| Ruby Medallion | riduttore | ~5-6€ |
+| The Last Agni Kai / Fogwell's Gym | fight+ramp / terra | ? |
 
-## Simulazione (sim_pods POD B, 40k partite, roster 135 mazzi)
+## Piano di gioco
 
-- Pre-protezione: **14,6%**, 121°/135 pool, 20°/21 pol (prot=1).
-- Post-protezione: **19,6%**, 97°/135 pool, 16°/21 pol (prot=4). +5 punti, +24 posizioni.
-- Ora è in mezzo alla fascia dei mazzi fair (Edgar 20%, Coulson 20%, first_sliver 18,7%,
-  mimeoplasm 15,9%), non più l'outlier in fondo.
-- **Limite noto**: il modello NON legge il comandante (qui È il motore) né rappresenta il
-  turno-storm → cn=0. Il numero reale è più alto; conta il segnale RELATIVO (il fix protezione
-  ha spostato il mazzo su di 4 posizioni).
-
-## Contese: "Sad Men Parade" = il Deadpool (chiarito da pol, 2026-07-07)
-
-Il container Moxfield **"Sad Men Parade - Main"** è il **mazzo Deadpool** (Rakdos, fisicamente
-montato). Quindi le sue carte sono **contese col Deadpool vivo**: usarle qui = spostarle avanti
-e indietro tra due mazzi fisici, o ricomprare la seconda copia. Siccome Deadpool è BR e The
-Vision è mono-R, **solo il sottoinsieme rosso/incolore** è legale qui (46 carte).
-
-Il **mazzo base in `.txt` NON ne dipende**: usa solo copie con un esemplare libero nel box
-(Sol Ring, Arcane Signet, Impact Tremors, Blasphemous Act, Sundial hanno tutte una copia in
-più). Montabile comunque senza toccare Deadpool.
-
-## Carte dal Deadpool — stato
-
-**Già DENTRO via proxy di pol** (non toccano il Deadpool fisico): **The One Ring**, **Ancient
-Tomb**, **Wheel of Fortune**, **Chaos Warp**, **Deflecting Swat** (aggiunte 2026-07-07 al posto
-di Goldvein Pick + Fiery Inscription). Il problema di contesa è risolto via proxy per tutte.
-
-**Ancora da valutare (contese, restano nel Deadpool salvo doppio/proxy):**
-- **Purphoros / Terror of the Peaks** — payoff da ETB; senza l'infinito ora valgono meno (niente
-  loop), ma restano buoni con Wheel/token. Opzionali.
-- **Reverberate** — 4ª copia-magia, ridondanza. **Vandalblast** — anti-artefatti one-sided.
-- **Nykthos** (ramp devotion), Untimely Malfunction, Jaxis — marginali.
-
-**Lascia nel Deadpool** (inutili qui o cuore del suo archetipo): Nim Deathmantle, Ashnod's
-Altar, Blade of Selves, Mirror Box, Orthion, Splinter Twin, Heat Shimmer, Twinflame, Helm of
-the Host, Conjurer's Closet, Captain Lannery Storm, Descent into Avernus. **Mana Confluence**:
-in mono-R non fixa nulla — tienila nel Deadpool.
-
-## Shopping opzionale (densità payoff, tutto economico <1-2€, B3-safe)
-
-Non serve per montarlo, ma alza la potenza dello spellslinger senza sforare B3 (nessuno di
-questi crea infiniti a poche carte):
-Young Pyromancer, Monastery Swiftspear, Soul-Scar Mage, Thermo-Alchemist, Electrostatic Field
-(payoff/cast-trigger), Reckless Impulse / Wrenn's Resolve / Light Up the Stage (impulse-draw),
-Ruby Medallion (riduttore di costo), Ral, Storm Conduit. Prezzi da confermare su Cardmarket,
-quasi tutti common/uncommon: stima **<15€ il set**. **Nota B3**: NON aggiungere Birgi + Grinning
-Ignus insieme (riaprirebbero l'infinito e ti riporterebbero a B4).
-
-## Sovrapposizione: nessuna (chiarito da pol)
-
-Sonic NON è spellslinger — è aggro-ramp che si auto-danneggia le creature per accelerare.
-The Vision (spellslinger/storm/combo mono-R) è quindi **archetipo e colore entrambi nuovi**
-per il roster di pol. Nessuna ridondanza. Resta solo la scelta del bracket (B4 con l'infinito
-Ignus, o B3 fair togliendo Ignus + Underworld Breach).
+Invariato nell'idea: rocce+comandante presto, catena di magie a basso costo — ogni cast cresce
+il comandante (+1/+1 e {R}) e pinga via Guttersnipe/Firebrand Archer/Witty Roastmaster, Torbran
+amplifica. Refill con Wheel/Faithless Looting/Big Score. Chiusure: comandante gigante volante +
+Embercleave, o turno storm → Grapeshot/Crackle with Power/Electrodominance. Con Ignus+Birgi in
+lista la chiusura "fair" diventa opzionale: il loop è la linea più forte (ed è il problema
+bracket di cui sopra).
 
 ## Aperti
 
-1. **Bracket deciso: B3 spinto** (2026-07-07). GC = 3 (Mana Vault, Ancient Tomb, The One Ring),
-   nessun infinito. Le 3 carte-chiave contese sono coperte dalle **proxy di pol**.
-2. Chaos Warp + Deflecting Swat aggiunte via proxy (fuori Goldvein Pick + Fiery Inscription).
-3. Le proxy stanno in `vision_scarlet_witch.txt`; se un domani sostituisci una proxy con la carta
-   fisica presa dal Deadpool, indeboliresti un mazzo reale → registralo in `MODIFICHE_FISICHE.md`.
+1. **Ignus vs Birgi: chi esce per tornare B3?** (o si dichiara B4 e ci si gioca così)
+2. Sim da rifare (`build_profiles.py` + `sim_pods.py`) sulla lista nuova.
+3. Il mazzo su Mythic è a 98: allineare l'app alla lista qui (100) quando pol applica gli swap.

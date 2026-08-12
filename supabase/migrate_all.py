@@ -203,16 +203,23 @@ def main():
     print(f"deck_notes caricate: {len(note_rows)}")
 
     # --- collection ---
-    norm_path = os.path.join(DECKS, "pol", "collection_normalized_2026-07-31.json")
-    if os.path.exists(norm_path):
+    # prende l'export normalizzato piu' recente per data (nome file: collection_normalized_YYYY-MM-DD.json)
+    # idempotenza: cancella solo le righe di QUESTA export_date e re-inserisce (niente
+    # vincolo UNIQUE su (player_id,card_name,export_date) nel DB live, quindi niente upsert
+    # con on_conflict -- lo storico delle date precedenti resta intatto)
+    norm_candidates = sorted(glob.glob(os.path.join(DECKS, "pol", "collection_normalized_*.json")))
+    if norm_candidates:
+        norm_path = norm_candidates[-1]
+        export_date = os.path.basename(norm_path).replace("collection_normalized_", "").replace(".json", "")
         owned = json.load(open(norm_path, encoding="utf-8"))
         crows = [{"player_id": player_id["pol"], "card_name": name, "quantity": qty,
-                   "source": "deckbox_export", "export_date": "2026-07-31"}
+                   "source": "deckbox_export", "export_date": export_date}
                   for name, qty in owned.items()]
-        sb.upsert("collection", crows, on_conflict="player_id,card_name,export_date", returning=False)
-        print(f"collection caricata: {len(crows)} carte distinte")
+        sb.delete("collection", player_id=f"eq.{player_id['pol']}", export_date=f"eq.{export_date}")
+        sb.upsert("collection", crows, returning=False)
+        print(f"collection caricata: {len(crows)} carte distinte (export {export_date})")
     else:
-        print("WARN: collection normalizzata non trovata, salto:", norm_path)
+        print("WARN: nessuna collection normalizzata trovata in decks/pol/")
 
     # --- sim_profiles (profiles.json) ---
     prof_path = os.path.join(ROOT, "profiles.json")

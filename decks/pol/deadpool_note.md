@@ -79,9 +79,9 @@ target (vedi sopra, sostituito con Burnished Hart). Deadpool esce dalla contesa;
 2 vie tra `toph` e `yshtola` (possedute=1, entrambi la vogliono) — **da decidere separatamente,
 non riguarda più questo mazzo**.
 
-A rischio aggiuntivo se `vision_scarlet_witch` risulta effettivamente reale (non ancora
-classificato in CLAUDE.md §3): **Ancient Tomb** (l'altro GC di deadpool, possedute=1, reali=1
-già al limite) e **Impact Tremors** (possedute=2, reali=2 già al limite).
+~~A rischio se `vision_scarlet_witch` risulta reale: Ancient Tomb e Impact Tremors~~ —
+**risolto 2026-08-12**: la build viva di vision_scarlet_witch (allineata da Mythic Tools) non
+usa più Ancient Tomb, Impact Tremors né The Fire Crystal: restano a deadpool senza contesa.
 
 Nessuna decisione presa qui su chi tiene cosa — sono fotografie di conflitto, non priorità.
 

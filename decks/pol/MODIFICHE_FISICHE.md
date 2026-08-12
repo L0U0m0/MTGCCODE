@@ -15,6 +15,14 @@ _Aggiornato: 2026-07-02_
 ## shroofus (La cosa verde)
 
 - [ ] FUORI: Defense Grid → DENTRO: **Beast Within** (box Spiderman, EOC)
+- [ ] FUORI: Peerless Recycling → DENTRO: **Voracious Hydra** (2026-07-31, chiusura rimozioni)
+- [ ] FUORI: Banner of Kinship → DENTRO: **Bite Down** (2026-07-31, chiusura rimozioni)
+- [ ] FUORI: Konda's Banner → DENTRO: **Tenderize** (2026-07-31, chiusura rimozioni)
+- [ ] FUORI: Elvish Farmer → DENTRO: **The Great Henge** (2026-07-31, dal maybeboard fisico
+  al main — priorità già segnalata in CLAUDE.md §4)
+- [ ] FUORI: Overwhelming Instinct → DENTRO: **Roaming Throne** (2026-07-31) — ⚠️ **da
+  COMPRARE prima** (le 2 copie possedute sono già in toph e yshtola, serve una terza copia,
+  ~37,97€ Cardmarket), non è uno spostamento interno come gli altri swap sopra
 
 ## edgar_markov
 
